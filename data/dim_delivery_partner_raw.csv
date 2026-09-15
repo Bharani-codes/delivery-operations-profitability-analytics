@@ -1,0 +1,101 @@
+Delivery_Partner_ID,Partner_Name,Base_City,Vehicle_Type,Experience_Years,Partner_Rating
+DP001,Vedika Wagle,Hyderabad,Scooter,10.9,3.63
+DP002,Tanvi Modi,Mumbai,Motorcycle,2.3,4.51
+DP003,Damini Garg,Coimbatore,Mini Truck,9.5,3.95
+DP004,Utkarsh Sule,Salem,Motorcycle,3.2,4.45
+DP005,Bhavya Batta,Bengaluru,Bicycle,8.3,3.55
+DP006,Ira Mane,Mumbai,Van,11.3,3.47
+DP007,Ojas Dyal,Salem,Motorcycle,9.2,4.13
+DP008,Qabil Gill,Bengaluru,Van,6.3,3.71
+DP009,Neel Khanna,Pune,Motorcycle,10.5,3.57
+DP010,Benjamin Nadig,Bengaluru,Scooter,8.0,3.75
+DP011,Ridhi Lad,Hyderabad,Van,7.4,3.87
+DP012,Qarin Jha,Coimbatore,Motorcycle,11.7,4.19
+DP013,Edhitha Padmanabhan,Salem,Mini Truck,8.6,3.46
+DP014,Kashish Sen,Tiruchirappalli,Motorcycle,3.7,4.05
+DP015,Charvi Dara,Mysuru,Bicycle,4.7,4.85
+DP016,Nidhi Tata,Tiruchirappalli,Motorcycle,1.7,4.3
+DP017,Tara Nagarajan,Salem,Bicycle,9.7,3.41
+DP018,Aayush Tripathi,Coimbatore,Van,11.8,4.54
+DP019,Chakrika Som,Tiruchirappalli,Van,9.9,3.95
+DP020,Manan Sathe,Coimbatore,Motorcycle,8.6,3.81
+DP021,Isaiah Srinivas,Hyderabad,Van,10.9,4.03
+DP022,Liam Dada,Kochi,Bicycle,4.2,4.38
+DP023,Aryan Ratti,Coimbatore,Bicycle,3.1,3.79
+DP024,Sanaya Parikh,Salem,Mini Truck,4.0,4.61
+DP025,Eta Bhakta,Kolkata,Bicycle,2.8,4.1
+DP026,Tristan Mall,Kochi,Van,10.0,4.12
+DP027,Arin Chacko,Kochi,Motorcycle,9.5,4.06
+DP028,Gagan Vala,Salem,Scooter,10.7,4.25
+DP029,Robert Swaminathan,Pune,Bicycle,3.6,4.43
+DP030,Yasti Bhalla,Mysuru,Bicycle,10.0,3.52
+DP031,Mitali Divan,Mysuru,Mini Truck,9.4,3.46
+DP032,Kala Raju,Madurai,Van,5.5,3.75
+DP033,Advik Mane,Bengaluru,Bicycle,8.2,3.27
+DP034,Indali Morar,Hyderabad,Scooter,10.6,3.54
+DP035,Gagan Kale,Kochi,Scooter,2.1,4.17
+DP036,Ojasvi Savant,Nashik,Mini Truck,8.2,4.09
+DP037,Nihal Samra,Salem,Bicycle,3.8,3.82
+DP038,Liam Chadha,Visakhapatnam,Motorcycle,1.1,4.77
+DP039,Sarthak Mitter,Mysuru,Mini Truck,11.2,4.61
+DP040,Gautami Bhatti,Kochi,Motorcycle,5.0,4.46
+DP041,Gaurang Ahuja,Kolkata,Mini Truck,10.0,4.55
+DP042,Anjali Sachdeva,Chennai,Bicycle,3.9,3.27
+DP043,Turvi Devan,Bengaluru,Van,1.9,3.57
+DP044,Quincy Raj,Vijayawada,Motorcycle,2.1,3.59
+DP045,Vritti Basak,Mumbai,Scooter,3.1,4.32
+DP046,Daksha Tak,Visakhapatnam,Scooter,7.1,4.15
+DP047,Udarsh Bala,Salem,Motorcycle,9.4,4.18
+DP048,Mitesh Lala,Mysuru,Mini Truck,8.7,3.93
+DP049,Urmi Dash,Bengaluru,Scooter,9.7,4.13
+DP050,Omisha Gola,Vijayawada,Van,8.2,4.11
+DP051,Yash Balakrishnan,Visakhapatnam,Mini Truck,11.3,4.73
+DP052,Aradhana Tailor,Vijayawada,Van,10.3,3.9
+DP053,Janaki Srivastava,Mysuru,Mini Truck,10.1,3.75
+DP054,Aarna Soni,Coimbatore,Bicycle,7.0,3.84
+DP055,Kashvi Vala,Vijayawada,Van,5.0,3.97
+DP056,Aashi Gaba,Mumbai,Motorcycle,9.0,4.87
+DP057,Madhav Nagarajan,Visakhapatnam,Motorcycle,6.7,4.89
+DP058,Krishna Parikh,Madurai,Motorcycle,4.3,3.58
+DP059,Chatresh Mahajan,Nashik,Van,1.2,4.6
+DP060,Oni Parekh,Salem,Van,11.1,4.07
+DP061,Bimala Manne,Visakhapatnam,Bicycle,2.7,3.26
+DP062,Yoshita Hari,Pune,Scooter,2.5,3.82
+DP063,Girindra Ganesh,Visakhapatnam,Scooter,3.6,4.58
+DP064,Diya Mitra,Bengaluru,Bicycle,5.4,4.76
+DP065,Janani Char,Salem,Motorcycle,9.0,4.55
+DP066,Maanas Arya,Hyderabad,Mini Truck,10.1,4.37
+DP067,Zarna Manda,Visakhapatnam,Motorcycle,7.5,3.71
+DP068,Vedhika Sabharwal,Salem,Bicycle,5.2,4.53
+DP069,Nicholas Chaudry,Kolkata,Van,4.8,4.59
+DP070,Mohammed Thakur,Mumbai,Motorcycle,10.6,3.59
+DP071,Raghav Vora,Mysuru,Bicycle,11.2,4.28
+DP072,Omisha Sharma,Mysuru,Mini Truck,1.6,4.09
+DP073,Jackson Deep,Pune,Bicycle,7.2,3.76
+DP074,Varsha Pall,Salem,Scooter,2.7,4.35
+DP075,Janani Dewan,Mumbai,Mini Truck,9.3,4.18
+DP076,Hema Gera,Bengaluru,Scooter,5.8,4.54
+DP077,Ayush Dani,Hyderabad,Scooter,4.7,4.01
+DP078,Kabir Dhar,Salem,Motorcycle,7.0,3.65
+DP079,Damyanti Dass,Mumbai,Bicycle,5.8,4.39
+DP080,Kalpit Brar,Tiruchirappalli,Scooter,6.3,3.54
+DP081,Isaac Brahmbhatt,Mumbai,Bicycle,3.2,4.25
+DP082,Veda Sankar,Salem,Bicycle,3.7,3.32
+DP083,Ronith Chokshi,Tiruchirappalli,Mini Truck,4.6,4.77
+DP084,Yochana Bhargava,Bengaluru,Motorcycle,8.4,3.92
+DP085,Jagat Kulkarni,Pune,Scooter,4.5,4.21
+DP086,Dominic Mitra,Chennai,Van,2.9,3.79
+DP087,Gopal Dasgupta,Nashik,Mini Truck,7.9,3.95
+DP088,Ryan Goyal,Kolkata,Scooter,3.2,3.84
+DP089,Ayush Chana,Tiruchirappalli,Motorcycle,2.2,3.29
+DP090,Arunima Pall,Visakhapatnam,Scooter,10.6,4.59
+DP091,Naveen Tella,Chennai,Van,8.6,3.39
+DP092,Yashasvi Bir,Kochi,Mini Truck,1.3,3.56
+DP093,Akshay Wadhwa,Vijayawada,Scooter,3.2,4.09
+DP094,Rehaan Manda,Madurai,Bicycle,6.3,4.44
+DP095,Aayush Chaudhary,Hyderabad,Motorcycle,5.1,4.74
+DP096,Yamini Soman,Vijayawada,Motorcycle,3.8,3.3
+DP097,Qasim Sarraf,Coimbatore,Bicycle,4.0,3.99
+DP098,Pratyush Pant,Chennai,Motorcycle,5.3,3.66
+DP099,Panini Kala,Nashik,Van,10.5,3.23
+DP100,Nikita Chowdhury,Nashik,Mini Truck,3.5,3.85

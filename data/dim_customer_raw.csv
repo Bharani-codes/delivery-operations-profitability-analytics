@@ -1,0 +1,2001 @@
+Customer_ID,Customer_Name,City,State,Customer_Segment,Customer_Status
+CUST0001,Aryan Maharaj,Mysuru,Karnataka,Standard,Active
+CUST0002,Udant Dewan,Salem,Tamil Nadu,Premium,Active
+CUST0003,Gagan Sami,Coimbatore,Tamil Nadu,Standard,Active
+CUST0004,Ayushman Chander,Mysuru,Karnataka,Business,Active
+CUST0005,Viraj Tiwari,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0006,Rushil Saini,Chennai,Tamil Nadu,Standard,Active
+CUST0007,Saumya Mall,Coimbatore,Tamil Nadu,Business,Active
+CUST0008,Nathaniel Sami,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0009,Arunima Dugal,Coimbatore,Tamil Nadu,Premium,Active
+CUST0010,Gayathri Chaudry,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0011,Lajita Chatterjee,Salem,Tamil Nadu,Premium,Active
+CUST0012,Hemangini Lalla,Madurai,Tamil Nadu,Standard,Active
+CUST0013,Tripti Yadav,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0014,Kritika Brar,Bengaluru,Karnataka,Premium,Active
+CUST0015,Janaki Handa,Pune,Maharashtra,Premium,Active
+CUST0016,Chakradev Kari,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0017,Fariq Kaul,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0018,Lajita Mall,Bengaluru,Karnataka,Business,Active
+CUST0019,Janya Gaba,Nashik,Maharashtra,Business,Active
+CUST0020,Isha Kadakia,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0021,Ekbal Garg,Chennai,Tamil Nadu,Business,Active
+CUST0022,Nihal Shere,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0023,Anamika Kanda,Nashik,Maharashtra,Standard,Active
+CUST0024,Daksh Karnik,Mumbai,Maharashtra,Premium,Inactive
+CUST0025,Diya Rattan,Mysuru,Karnataka,Premium,Active
+CUST0026,Dominic Kakar,Pune,Maharashtra,Premium,Active
+CUST0027,Simon Tata,Mysuru,Karnataka,Premium,Active
+CUST0028,Tara Dhar,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0029,Liam Koshy,Vijayawada,Andhra Pradesh,Business,Active
+CUST0030,Priya Rastogi,Hyderabad,Telangana,Premium,Inactive
+CUST0031,Theodore Devi,Madurai,Tamil Nadu,Business,Active
+CUST0032,Gavin Batta,Mysuru,Karnataka,Premium,Active
+CUST0033,Michael Dutta,Coimbatore,Tamil Nadu,Standard,Active
+CUST0034,Devansh Rajan,Mumbai,Maharashtra,Premium,Active
+CUST0035,Upadhriti Wadhwa,Coimbatore,Tamil Nadu,Business,Active
+CUST0036,Advay Contractor,Coimbatore,Tamil Nadu,Business,Inactive
+CUST0037,Harini Choudhury,Mumbai,Maharashtra,Business,Inactive
+CUST0038,Radhika Dugar,Hyderabad,Telangana,Premium,Active
+CUST0039,Aarush Lall,Coimbatore,Tamil Nadu,Business,Active
+CUST0040,Yashica Cherian,Salem,Tamil Nadu,Business,Inactive
+CUST0041,Yashica Issac,Kolkata,West Bengal,Business,Inactive
+CUST0042,Kashvi Edwin,pune,Maharashtra,Standard,Active
+CUST0043,Ekiya Suresh,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0044,Isaac Patil,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0045,Wriddhish Bhardwaj,Hyderabad,Telangana,Business,Active
+CUST0046,Farhan Chada,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0047,Ekapad Walia,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST0048,Kabir Soman,Mumbai,Maharashtra,Business,Inactive
+CUST0049,Alka Wable,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0050,Siddharth Zacharia,Mysuru,Karnataka,Business,Active
+CUST0051,Devika Rastogi,Mysuru,Karnataka,Business,Active
+CUST0052,Raksha Varughese,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0053,Jai Kota,Bengaluru,Karnataka,Premium,Inactive
+CUST0054,Devansh Nigam,Hyderabad,Telangana,Premium,Active
+CUST0055,Victor Kannan,Salem,Tamil Nadu,Business,Active
+CUST0056,Ekavir Bhargava,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0057,Ekansh Balay,Nashik,Maharashtra,Business,Active
+CUST0058,Ekavir Varkey,Nashik,Maharashtra,Business,Active
+CUST0059,Arya Sunder,Hyderabad,Telangana,Premium,Active
+CUST0060,Kevin Solanki,Vijayawada,Andhra Pradesh,Business,Active
+CUST0061,Urvashi Ray,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST0062,Girindra Chatterjee,Chennai,Tamil Nadu,Standard,Active
+CUST0063,Irya Sampath,Kolkata,West Bengal,Premium,Active
+CUST0064,Unni Bhagat,Chennai,Tamil Nadu,Standard,Active
+CUST0065,Darsh Rau,Bengaluru,Karnataka,Business,Inactive
+CUST0066,Ikbal Kothari,Nashik,Maharashtra,Standard,Active
+CUST0067,Ranveer Yadav,Hyderabad,Telangana,Business,Inactive
+CUST0068,Logan Sami,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0069,Arya Shere,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0070,Faqid Savant,Coimbatore,Tamil Nadu,Business,Active
+CUST0071,Chandresh Zachariah,Salem,Tamil Nadu,Premium,Inactive
+CUST0072,Girik Khalsa,Mysuru,Karnataka,Business,Active
+CUST0073,Niharika Sunder,Kochi,Kerala,Business,Inactive
+CUST0074,Tanay Rattan,Bengaluru,Karnataka,Standard,Active
+CUST0075,Nitesh Raghavan, Bengaluru ,Karnataka,Premium,Active
+CUST0076,Madhavi Lanka,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0077,Bhavika Sampath,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0078,Mohammed Gupta,Bengaluru,Karnataka,Business,Active
+CUST0079,Teerth Bhardwaj,Coimbatore,Tamil Nadu,Standard,Active
+CUST0080,Dipta Bhandari,Nashik,Maharashtra,Premium,Active
+CUST0081,Vansha Thakkar,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0082,Dakshesh Trivedi,Mysuru,Karnataka,Premium,Active
+CUST0083,Quincy Biswas,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0084,Wahab Raval,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0085,Yatin Baral,Coimbatore,Tamil Nadu,Standard,Active
+CUST0086,Oni Virk,Mysuru,Karnataka,Premium,Active
+CUST0087,Advika Jayaraman,Mumbai,Maharashtra,Premium,Inactive
+CUST0088,William Lanka,Nashik,Maharashtra,Business,Active
+CUST0089,Karan Mital,Mysuru,Karnataka,Business,Active
+CUST0090,Diya Bora,Chennai,Tamil Nadu,Premium,Active
+CUST0091,Tara Chaudhry,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0092,Tanay Toor,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0093,Kevin Palla,Hyderabad,Telangana,Premium,Active
+CUST0094,Yash Pingle,Madurai,Tamil Nadu,Premium,Active
+CUST0095,Nakul Sarma,Nashik,Maharashtra,Standard,Inactive
+CUST0096,Abhiram Mistry,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0097,Krish Lalla,Chennai,Tamil Nadu,Business,Active
+CUST0098,Hredhaan Dugal,Bengaluru,Karnataka,Standard,Active
+CUST0099,Baghyawati Kade,Mumbai,Maharashtra,Premium,Inactive
+CUST0100,Samar Lalla,Coimbatore,Tamil Nadu,Premium,Active
+CUST0101,Zayan Behl,Hyderabad,Telangana,Premium,Active
+CUST0102,Pallavi Malhotra,Mumbai,Maharashtra,Premium,Inactive
+CUST0103,Aarush Nath,Madurai,Tamil Nadu,Premium,Inactive
+CUST0104,Adweta Edwin,Hyderabad,Telangana,Standard,Active
+CUST0105,Prisha Andra,Coimbatore,Tamil Nadu,Standard,Active
+CUST0106,Faqid Dixit,Salem,Tamil Nadu,Premium,Active
+CUST0107,Kala Divan,Chennai,Tamil Nadu,Business,Inactive
+CUST0108,Joshua Barman,Vijayawada,Andhra Pradesh,Business,Active
+CUST0109,Janya Baral,Chennai,Tamil Nadu,Business,Active
+CUST0110,Shivansh Krish,Nashik,Maharashtra,Standard,Active
+CUST0111,Irya Ray,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0112,Warjas Gaba,Mumbai,Maharashtra,Standard,Active
+CUST0113,Nitara Bakshi,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0114,Gaurangi Sabharwal,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST0115,Amara Dutta,Mysuru,Karnataka,Business,Active
+CUST0116,Lavanya Barad,Kolkata,West Bengal,Premium,Active
+CUST0117,Tristan Iyengar,Mysuru,Karnataka,Business,Active
+CUST0118,Inaya Mody,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0119,Udant Bajwa,Hyderabad,Telangana,Business,Active
+CUST0120,Mohini Narasimhan,Kochi,Kerala,Premium,Active
+CUST0121,Ekaraj Mallick,Chennai,Tamil Nadu,Premium,Active
+CUST0122,Yashodhara Ratta,Bengaluru,Karnataka,Business,Active
+CUST0123,Ayaan D’Alia,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0124,Pranav Lanka,Kolkata,West Bengal,Premium,Active
+CUST0125,Ikbal Saraf,Kolkata,West Bengal,Standard,Active
+CUST0126,Dipta Sarin,Madurai,Tamil Nadu,Standard,Inactive
+CUST0127,Lekha Gupta,Nashik,Maharashtra,Business,Active
+CUST0128,Chaitanya Sarin,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0129,Zinal Yohannan,Mysuru,Karnataka,Business,Active
+CUST0130,Januja Sankar,Kolkata,West Bengal,Business,Active
+CUST0131,Ganga Murthy,Kolkata,West Bengal,Standard,Active
+CUST0132,Charita Tripathi,Bengaluru,Karnataka,Standard,Active
+CUST0133,Nilima Narain,Madurai,Tamil Nadu,Premium,Active
+CUST0134,Chakrika Datta,Salem,Tamil Nadu,Premium,Active
+CUST0135,Osha Raghavan,Mysuru,Karnataka,Business,Active
+CUST0136,Charvi Ravi,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0137,Daksha Mangat,Kolkata,West Bengal,Standard,Active
+CUST0138,Qushi Nagy,Mysuru,Karnataka,Premium,Active
+CUST0139,Riya Sathe,Chennai,Tamil Nadu,Standard,Active
+CUST0140,Yasti Solanki,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0141,Frado Mander,Hyderabad,Telangana,Business,Inactive
+CUST0142,Girik Keer,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0143,Umang Issac,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0144,Aryan Batra,Bengaluru,Karnataka,Business,Active
+CUST0145,Vaishnavi Bora,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0146,Oeshi Hayer,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0147,Warda Ratta,Mumbai,Maharashtra,Standard,Active
+CUST0148,Manbir Ahluwalia,Madurai,Tamil Nadu,Premium,Active
+CUST0149,Pavani Kanda,Kolkata,West Bengal,Premium,Active
+CUST0150,Zarna Shetty,Mysuru,Karnataka,Standard,Active
+CUST0151,Zaid Dara,Pune,Maharashtra,Business,Inactive
+CUST0152,Kiaan Shetty,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0153,Saanvi Thaman,Kolkata,West Bengal,Standard,Active
+CUST0154,Sanaya Dutt,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0155,Shivani Lad,Chennai,Tamil Nadu,Standard,Active
+CUST0156,Aradhana Verma,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0157,William Maharaj,Madurai,Tamil Nadu,Standard,Active
+CUST0158,Faras Mangal,Mumbai,Maharashtra,Standard,Inactive
+CUST0159,Anita Nayak,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0160,Faris Devi,Pune,Maharashtra,Premium,Active
+CUST0161,Vihaan Rajagopal,Coimbatore,Tamil Nadu,Standard,Active
+CUST0162,Tanish Bhatt,Mumbai,Maharashtra,Premium,Active
+CUST0163,Nikita Narayanan,Nashik,Maharashtra,Standard,Active
+CUST0164,Ojasvi Bhatia,Pune,Maharashtra,Business,Inactive
+CUST0165,Osha Ramachandran,Mysuru,Karnataka,Business,Active
+CUST0166,Lajita Sood,Chennai,Tamil Nadu,Standard,Active
+CUST0167,Indira Misra,Hyderabad,Telangana,Business,Active
+CUST0168,Oni Yohannan,Chennai,Tamil Nadu,Standard,Inactive
+CUST0169,Vinaya Kanda,Pune,Maharashtra,Business,Active
+CUST0170,Rajata Sunder,Mumbai,Maharashtra,Business,Active
+CUST0171,Lopa Nayar,Mumbai,Maharashtra,Business,Active
+CUST0172,Noah Sibal,Madurai,Tamil Nadu,Standard,Inactive
+CUST0173,Avi Ramesh,Chennai,Tamil Nadu,Business,Active
+CUST0174,Fiyaz Sangha,Pune,Maharashtra,Premium,Active
+CUST0175,Triya Gopal,Mysuru,Karnataka,Premium,Active
+CUST0176,Abha Raghavan,Mysuru,Karnataka,Standard,Active
+CUST0177,Siddharth Sha,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0178,Geetika Raghavan,Pune,Maharashtra,Premium,Active
+CUST0179,Oviya Krishnan,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0180,Upma Bahl,Mumbai,Maharashtra,Business,Inactive
+CUST0181,Inaya Kapur,Mysuru,Karnataka,Business,Active
+CUST0182,Banjeet Balasubramanian,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0183,Ryan Bahri,Mumbai,Maharashtra,Business,Active
+CUST0184,William Date,Madurai,Tamil Nadu,Premium,Active
+CUST0185,Ishwar Kamdar,Mumbai,Maharashtra,Business,Active
+CUST0186,Aahana Pillay,Kochi,Kerala,Premium,Inactive
+CUST0187,Ishwar Gade,Mysuru,Karnataka,Standard,Inactive
+CUST0188,Hritik Bal,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0189,Keya Ranganathan,Mysuru,Karnataka,Standard,Active
+CUST0190,Faqid Kibe,Vijayawada,Andhra Pradesh,Business,Active
+CUST0191,Charvi Dara,Bengaluru,Karnataka,Standard,Active
+CUST0192,Idika Walia,Coimbatore,Tamil Nadu,Standard,Active
+CUST0193,Kamala Biswas,Chennai,Tamil Nadu,Standard,Active
+CUST0194,Advik Salvi,Kochi,Kerala,Business,Active
+CUST0195,Hitesh Sant,Kochi,Kerala,Premium,Active
+CUST0196,Tripti Dua,Salem,Tamil Nadu,Business,Inactive
+CUST0197,Patrick Vig,Kochi,Kerala,Premium,Active
+CUST0198,Veda Shroff,Hyderabad,Telangana,Business,Active
+CUST0199,Amrita Naidu,Kolkata,West Bengal,Standard,Inactive
+CUST0200,Gabriel Mallick,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0201,Yagnesh Shetty,Chennai,Tamil Nadu,Business,Active
+CUST0202,Gayathri Balakrishnan,Kolkata,West Bengal,Standard,Inactive
+CUST0203,Ekta Gopal,Hyderabad,Telangana,Premium,Active
+CUST0204,Simon Pant,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST0205,Harini Mammen,Nashik,Maharashtra,Business,Inactive
+CUST0206,Advaith Varughese,Kolkata,West Bengal,Standard,Inactive
+CUST0207,Frederick Khurana,Kochi,Kerala,Premium,Active
+CUST0208,Vrinda Khosla,Nashik,Maharashtra,Business,Active
+CUST0209,Vritti Sem,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0210,Girik Menon,Mysuru,Karnataka,Standard,Active
+CUST0211,Nidhi Kohli,Kochi,Kerala,Standard,Active
+CUST0212,Jyoti Solanki,Coimbatore,Tamil Nadu,Premium,Active
+CUST0213,Pavani Narayanan,Pune,Maharashtra,Business,Active
+CUST0214,Sudiksha Madan,Hyderabad,Telangana,Standard,Active
+CUST0215,Zayan Kashyap,Mumbai,Maharashtra,Business,Active
+CUST0216,Reyansh Mutti,Salem,Tamil Nadu,Standard,Active
+CUST0217,Qasim Handa,Mumbai,Maharashtra,Premium,Active
+CUST0218,Veda Malhotra,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0219,Harish Hari,Chennai,Tamil Nadu,Standard,Inactive
+CUST0220,Utkarsh Patel,Mumbai,Maharashtra,Business,Active
+CUST0221,Chasmum Atwal,Nashik,Maharashtra,Business,Inactive
+CUST0222,Anusha Bath,Kochi,Kerala,Standard,Active
+CUST0223,Brinda Date,Madurai,Tamil Nadu,Premium,Inactive
+CUST0224,Harshil Arora,Vijayawada,Andhra Pradesh,Business,Active
+CUST0225,Upasna Srinivas,Kochi,Kerala,Standard,Active
+CUST0226,Harini Gour,Mumbai,Maharashtra,Premium,Active
+CUST0227,Zayyan Sridhar,Mumbai,Maharashtra,Premium,Inactive
+CUST0228,Dhruv Rattan,Salem,Tamil Nadu,Standard,Inactive
+CUST0229,Ethan Bera,Kolkata,West Bengal,Standard,Active
+CUST0230,Manthan Modi,Kolkata,West Bengal,Premium,Active
+CUST0231,Yuvraj Dani,Bengaluru,Karnataka,Business,Inactive
+CUST0232,Upkaar Virk,Hyderabad,Telangana,Premium,Active
+CUST0233,Shravya Savant,Chennai,Tamil Nadu,Premium,Inactive
+CUST0234,Pushti Mody,Pune,Maharashtra,Standard,Inactive
+CUST0235,Hardik Johal,Pune,Maharashtra,Premium,Inactive
+CUST0236,Aishani Bumb,Madurai,Tamil Nadu,Premium,Active
+CUST0237,Wriddhish Ghose,Nashik,Maharashtra,Standard,Inactive
+CUST0238,Naksh Agate,Chennai,Tamil Nadu,Business,Active
+CUST0239,Shravya Singhal,Pune,Maharashtra,Standard,Active
+CUST0240,Bachittar Kata,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0241,Barkha Setty,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0242,Vivaan Lalla,Coimbatore,Tamil Nadu,Standard,Active
+CUST0243,Pavani Contractor,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0244,Manthan Lata,Mysuru,Karnataka,Standard,Active
+CUST0245,Ekbal Bhasin,Kochi,Kerala,Business,Active
+CUST0246,Damyanti Mani,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0247,Jeet Sidhu,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0248,Neha Magar,TIRUCHIRAPPALLI,Tamil Nadu,Standard,Active
+CUST0249,Raksha Buch,Bengaluru,Karnataka,Business,Active
+CUST0250,Rachana Naidu,Kolkata,West Bengal,Premium,Inactive
+CUST0251,Atharv Chand,Mumbai,Maharashtra,Business,Active
+CUST0252,Ansh Luthra,Bengaluru,Karnataka,Business,Active
+CUST0253,Parth Singhal,Bengaluru,Karnataka,Business,Active
+CUST0254,Arunima Golla,Nashik,Maharashtra,Business,Active
+CUST0255,Vyanjana Chand,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0256,Ijaya Rege,Pune,Maharashtra,Business,Inactive
+CUST0257,Ekani Cheema,Mysuru,Karnataka,Premium,Active
+CUST0258,Forum Sabharwal,Vijayawada,Andhra Pradesh,Business,Active
+CUST0259,Bhavya Rattan,Chennai,Tamil Nadu,Premium,Inactive
+CUST0260,Suhani Chakrabarti,Bengaluru,Karnataka,Premium,Active
+CUST0261,Zayyan Naik,Mysuru,Karnataka,Premium,Active
+CUST0262,Netra Varkey,Mumbai,Maharashtra,Standard,Active
+CUST0263,Turvi Sachdev,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST0264,Raghav Vasa,Kochi,Kerala,Premium,Active
+CUST0265,Wishi Sathe,Pune,Maharashtra,Standard,Active
+CUST0266,Samar Loke,Madurai,Tamil Nadu,Premium,Active
+CUST0267,Bhavna Sarma,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST0268,Jairaj Balakrishnan,Pune,Maharashtra,Standard,Inactive
+CUST0269,Nathan Mukhopadhyay,Nashik,Maharashtra,Premium,Active
+CUST0270,Nikita Chander,Kochi,Kerala,Standard,Active
+CUST0271,Ishaan Shenoy,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0272,Mitesh Tara,Madurai,Tamil Nadu,Business,Active
+CUST0273,Yashodhara Mahajan,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0274,Vasudha Sodhi,Bengaluru,Karnataka,Standard,Inactive
+CUST0275,Tanmayi Dhillon,Kochi,Kerala,Business,Active
+CUST0276,Rayaan Trivedi,Salem,Tamil Nadu,Premium,Inactive
+CUST0277,Ekaraj Majumdar,Kochi,Kerala,Standard,Active
+CUST0278,Harini Tripathi,Madurai,Tamil Nadu,Standard,Inactive
+CUST0279,Aarnav Mandal,Salem,Tamil Nadu,Standard,Active
+CUST0280,Vrishti Dixit,Mysuru,Karnataka,Business,Active
+CUST0281,Veda Pai,Kochi,Kerala,Business,Active
+CUST0282,Krishna Shah,Mumbai,Maharashtra,Business,Active
+CUST0283,Ranbir Khare,Pune,Maharashtra,Business,Inactive
+CUST0284,Vivaan Roy,Madurai,Tamil Nadu,Premium,Active
+CUST0285,Eesha Solanki,Coimbatore,Tamil Nadu,Standard,Active
+CUST0286,Libni Doshi,Pune,Maharashtra,Standard,Active
+CUST0287,Balhaar Date,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0288,Harish Sarraf,Madurai,Tamil Nadu,Business,Active
+CUST0289,Tanmayi Aurora,Bengaluru,Karnataka,Standard,Active
+CUST0290,Nimrat Dubey,Coimbatore,Tamil Nadu,Premium,Active
+CUST0291,Upasna Lanka,Madurai,Tamil Nadu,Standard,Active
+CUST0292,Mitali Buch,Madurai,Tamil Nadu,Standard,Active
+CUST0293,Lajita Nadig,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0294,Balendra Biswas,Mysuru,Karnataka,Premium,Active
+CUST0295,Bhavna Karan,Nashik,Maharashtra,Standard,Active
+CUST0296,Radha Chaudhari,Kochi,Kerala,Premium,Inactive
+CUST0297,Sachi Ganesan,Pune,Maharashtra,Standard,Active
+CUST0298,Ayush Batra,Madurai,Tamil Nadu,Premium,Active
+CUST0299,Daksh Memon,Nashik,Maharashtra,Standard,Inactive
+CUST0300,Kavya Sankar,Kochi,Kerala,Standard,Active
+CUST0301,Yash Wali,Hyderabad,Telangana,Standard,Active
+CUST0302,Pranit Garde,Bengaluru,Karnataka,Standard,Active
+CUST0303,Farhan Raja,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0304,Widisha Dhar,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0305,Triya Kumar,Kochi,Kerala,Premium,Active
+CUST0306,Aadhya Andra,Nashik,Maharashtra,Business,Inactive
+CUST0307,Bhavna Dugar,Madurai,Tamil Nadu,Business,Active
+CUST0308,Riya Pai,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0309,Panini Krishna,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0310,Chasmum Issac,Madurai,Tamil Nadu,Business,Active
+CUST0311,Vasudha Chhabra,Hyderabad,Telangana,Standard,Active
+CUST0312,Lakshmi Parmer,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0313,Chakrika Bains,Chennai,Tamil Nadu,Premium,Inactive
+CUST0314,Anvi Anand,Salem,Tamil Nadu,Business,Inactive
+CUST0315,Watika Mangat,Madurai,Tamil Nadu,Standard,Active
+CUST0316,Indira Kanda,Madurai,Tamil Nadu,Business,Active
+CUST0317,Zashil Devan,Salem,Tamil Nadu,Premium,Active
+CUST0318,Balveer More,Mysuru,Karnataka,Standard,Active
+CUST0319,Bahadurjit Patla,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0320,Gautam Merchant,Mumbai,Maharashtra,Standard,Active
+CUST0321,Ojasvi Gill,Mysuru,Karnataka,Standard,Active
+CUST0322,Kevin Zacharia,Nashik,Maharashtra,Standard,Active
+CUST0323,Yachana Mahajan,Chennai,Tamil Nadu,Standard,Active
+CUST0324,Aarini Subramaniam,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0325,Hamsini Contractor,Kochi,Kerala,Standard,Inactive
+CUST0326,Faqid Dhaliwal,Salem,Tamil Nadu,Premium,Inactive
+CUST0327,Mekhala Pau,Madurai,Tamil Nadu,Business,Inactive
+CUST0328,Megha Atwal,Kochi,Kerala,Standard,Active
+CUST0329,Jatin Sha,Kolkata,West Bengal,Premium,Active
+CUST0330,Adweta Raj,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0331,Hritik Kaur,Bengaluru,Karnataka,Standard,Active
+CUST0332,Aryan Narang,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0333,Dev Shetty,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0334,Nilima Dada,Kochi,Kerala,Business,Inactive
+CUST0335,Chakradev Barad,Kolkata,West Bengal,Premium,Active
+CUST0336,Waida D’Alia,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST0337,Wahab Yogi,Bengaluru,Karnataka,Premium,Active
+CUST0338,Lipika Setty,Mumbai,Maharashtra,Premium,Active
+CUST0339,Oni Dubey,Mysuru,Karnataka,Standard,Active
+CUST0340,Hardik Suri,Pune,Maharashtra,Premium,Inactive
+CUST0341,Ati Bali,Madurai,Tamil Nadu,Business,Inactive
+CUST0342,Teerth Sawhney,Nashik,Maharashtra,Business,Active
+CUST0343,Warinder Patil,Kochi,Kerala,Standard,Active
+CUST0344,Jhalak Parmer,Madurai,Tamil Nadu,Premium,Active
+CUST0345,Mitali Majumdar,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0346,Jason Sha,Mysuru,Karnataka,Business,Inactive
+CUST0347,Simon Bail,Mumbai,Maharashtra,Standard,Active
+CUST0348,Gauri Kohli,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0349,Samesh Biswas,Mysuru,Karnataka,Premium,Active
+CUST0350,Tarak Kaul,Coimbatore,Tamil Nadu,Premium,Active
+CUST0351,Manbir Agate,Kolkata,West Bengal,Premium,Inactive
+CUST0352,Maanav De,Kolkata,West Bengal,Business,Inactive
+CUST0353,Owen Choudhary,Bengaluru,Karnataka,Standard,Active
+CUST0354,Karan Aurora,Salem,Tamil Nadu,Standard,Active
+CUST0355,Wazir Naik,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0356,Owen Lanka,Bengaluru,Karnataka,Standard,Active
+CUST0357,Jonathan Sama,Kochi,Kerala,Standard,Active
+CUST0358,Devansh Soni,Kochi,Kerala,Business,Active
+CUST0359,Janaki Varghese,Vijayawada,Andhra Pradesh,Business,Active
+CUST0360,Siya Thakur,Mumbai,Maharashtra,Premium,Inactive
+CUST0361,Caleb Verma,Coimbatore,Tamil Nadu,Premium,Active
+CUST0362,Tara Balasubramanian,Mumbai,Maharashtra,Standard,Active
+CUST0363,Varenya Ratti,Nashik,Maharashtra,Standard,Active
+CUST0364,Hritik Swaminathan,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0365,Ethan Buch,Kolkata,West Bengal,Business,Active
+CUST0366,Manbir Bhatti,Nashik,Maharashtra,Standard,Active
+CUST0367,Anvi Nair,Salem,Tamil Nadu,Premium,Inactive
+CUST0368,Chaitaly Setty,Nashik,Maharashtra,Standard,Inactive
+CUST0369,Hardik Contractor,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0370,Qushi Seth,Pune,Maharashtra,Business,Inactive
+CUST0371,Odika Nori,Kochi,Kerala,Premium,Active
+CUST0372,Mohini Sagar,Salem,Tamil Nadu,Standard,Inactive
+CUST0373,Dhriti Sane,Coimbatore,Tamil Nadu,Premium,Active
+CUST0374,Aadhya Prasad,Pune,Maharashtra,Business,Inactive
+CUST0375,Urvi Bhavsar,Salem,Tamil Nadu,Premium,Inactive
+CUST0376,Frederick Chander,Mysuru,Karnataka,Business,Active
+CUST0377,Gopal Pradhan,Kochi,Kerala,Standard,Active
+CUST0378,Darpan Narayan,Vijayawada,Andhra Pradesh,Business,Active
+CUST0379,Nirja Pandya,Nashik,Maharashtra,Standard,Inactive
+CUST0380,Charan Mani,Bengaluru,Karnataka,Business,Inactive
+CUST0381,Indira Chawla,Chennai,Tamil Nadu,Business,Active
+CUST0382,Mohammed Subramaniam,Mumbai,Maharashtra,Business,Active
+CUST0383,Hritik Palla,Bengaluru,Karnataka,Premium,Active
+CUST0384,Ishwar Mallick,Pune,Maharashtra,Business,Inactive
+CUST0385,Pushti Bal,Mysuru,Karnataka,Standard,Active
+CUST0386,Ayush Gole,Nashik,Maharashtra,Business,Inactive
+CUST0387,Dayamai Nori,Pune,Maharashtra,Business,Inactive
+CUST0388,Abeer Golla,Nashik,Maharashtra,Business,Active
+CUST0389,Nandini Boase,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0390,Azaan Chand,Mysuru,Karnataka,Business,Active
+CUST0391,Krisha Saini,Coimbatore,Tamil Nadu,Business,Active
+CUST0392,Harita Dugar,Mumbai,Maharashtra,Standard,Active
+CUST0393,Devika Nair,Kochi,Kerala,Standard,Active
+CUST0394,Charles Dugal,Kolkata,West Bengal,Standard,Active
+CUST0395,Chandran Bumb,Pune,Maharashtra,Standard,Active
+CUST0396,Saanvi Samra,Pune,Maharashtra,Premium,Inactive
+CUST0397,Riya Sachdeva,Hyderabad,Telangana,Standard,Inactive
+CUST0398,Tanveer Vala,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0399,Hemani Sani,Hyderabad,Telangana,Standard,Active
+CUST0400,Bhanumati Sur,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0401,Chakradev Kannan,Kochi,Kerala,Business,Active
+CUST0402,Christopher Amble,Coimbatore,Tamil Nadu,Premium,Active
+CUST0403,Charvi Kakar,Kochi,Kerala,Premium,Active
+CUST0404,Aadhya Mann,Kolkata,West Bengal,Premium,Active
+CUST0405,Jagdish Amble,Mysuru,Karnataka,Business,Active
+CUST0406,Qushi Gill,Bengaluru,Karnataka,Premium,Active
+CUST0407,Lajita Walia,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST0408,Xiti Pandya,Salem,Tamil Nadu,Premium,Inactive
+CUST0409,Mekhala Basak,Nashik,Maharashtra,Premium,Active
+CUST0410,Anirudh Sharaf,Mumbai,Maharashtra,Premium,Active
+CUST0411,Dhriti Sanghvi,Coimbatore,Tamil Nadu,Premium,Active
+CUST0412,Omisha Mann,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0413,Nidhi Bail,Chennai,Tamil Nadu,Business,Inactive
+CUST0414,Onveer Sharma,Madurai,Tamil Nadu,Standard,Active
+CUST0415,Gaurang Sarkar,Kolkata,West Bengal,Business,Inactive
+CUST0416,Yagnesh Sarin,Nashik,Maharashtra,Premium,Active
+CUST0417,Farhan Randhawa,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0418,Harinakshi Kant,Mysuru,Karnataka,Standard,Active
+CUST0419,Om Bose,Mysuru,Karnataka,Business,Active
+CUST0420,Yashvi Hari,Mysuru,Karnataka,Standard,Active
+CUST0421,Indali Divan,Madurai,Tamil Nadu,Premium,Active
+CUST0422,Harshil Dhingra,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0423,Rudra Ghose,Bengaluru,Karnataka,Premium,Active
+CUST0424,Faqid Goel,Salem,Tamil Nadu,Premium,Active
+CUST0425,Ucchal Sen,Coimbatore,Tamil Nadu,Standard,Active
+CUST0426,Diya Dora,Vijayawada,Andhra Pradesh,Business,Active
+CUST0427,Ekansh Singh,Nashik,Maharashtra,Standard,Active
+CUST0428,Chavvi Maharaj,Kolkata,West Bengal,Premium,Active
+CUST0429,Indira Tripathi,Salem,Tamil Nadu,Premium,Active
+CUST0430,Dayita Shenoy,Kochi,Kerala,Standard,Active
+CUST0431,Baljiwan Bhandari,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0432,Bhavini Bose,Nashik,Maharashtra,Business,Active
+CUST0433,Yashica Rajagopalan,Bengaluru,Karnataka,Premium,Active
+CUST0434,Benjamin Sengupta,Madurai,Tamil Nadu,Business,Active
+CUST0435,Ekanta Soni,Kochi,Kerala,Premium,Active
+CUST0436,David Seshadri,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0437,Hemal Chad,Bengaluru,Karnataka,Business,Active
+CUST0438,Balveer Kota,Kochi,Kerala,Standard,Active
+CUST0439,Reva Viswanathan,Kolkata,West Bengal,Business,Active
+CUST0440,Januja Pradhan,Mysuru,Karnataka,Standard,Inactive
+CUST0441,Lila Rege,Kolkata,West Bengal,Business,Active
+CUST0442,Charles Natt,Mysuru,Karnataka,Premium,Active
+CUST0443,Forum Chandra,Hyderabad,Telangana,Standard,Active
+CUST0444,Bhanumati Krishnan,Madurai,Tamil Nadu,Premium,Active
+CUST0445,Gauri Bumb,Bengaluru,Karnataka,Standard,Active
+CUST0446,Inaya Mukherjee,Mumbai,Maharashtra,Premium,Active
+CUST0447,Kai Chad,Mysuru,Karnataka,Business,Inactive
+CUST0448,Krisha Narasimhan,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0449,Girik Sampath,Kolkata,West Bengal,Premium,Active
+CUST0450,Andrew Patil,Nashik,Maharashtra,Premium,Inactive
+CUST0451,Pranit Kala,Madurai,Tamil Nadu,Standard,Active
+CUST0452,Vedika Handa,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0453,Laksh Dubey,Coimbatore,Tamil Nadu,Premium,Active
+CUST0454,Chakrika Chaudhuri,Mysuru,Karnataka,Premium,Active
+CUST0455,Gayathri Deep,Chennai,Tamil Nadu,Premium,Active
+CUST0456,Mitesh Gaba,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0457,Noah Sarma,Bengaluru,Karnataka,Business,Active
+CUST0458,Nirja Patla,Mysuru,Karnataka,Business,Active
+CUST0459,Sachi Mane,Chennai,Tamil Nadu,Premium,Active
+CUST0460,Vivaan Walla,Hyderabad,Telangana,Business,Active
+CUST0461,Dayamai Singh,Bengaluru,Karnataka,Business,Active
+CUST0462,Jhalak Sastry,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0463,Baghyawati Raja,Pune,Maharashtra,Standard,Active
+CUST0464,Neel Iyengar,Madurai,Tamil Nadu,Standard,Active
+CUST0465,Zashil Ben,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0466,Kamya Chauhan,Bengaluru,Karnataka,Business,Active
+CUST0467,Bhavani Chacko,Hyderabad,Telangana,Standard,Active
+CUST0468,Anjali Sengupta,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0469,Rajeshri Chand,Chennai,Tamil Nadu,Standard,Active
+CUST0470,Shravya Palla,Chennai,Tamil Nadu,Standard,Inactive
+CUST0471,Oeshi Bera,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0472,Yadavi Prakash,Kochi,Kerala,Premium,Active
+CUST0473,Libni Bumb,Vijayawada,Andhra Pradesh,Business,Active
+CUST0474,Udarsh Bala,Kochi,Kerala,Business,Active
+CUST0475,Hardik Nayak,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0476,Laksh Barad,Kochi,Kerala,Business,Active
+CUST0477,Urmi Dewan,Chennai,Tamil Nadu,Premium,Inactive
+CUST0478,Saumya Ahluwalia,Mumbai,Maharashtra,Business,Active
+CUST0479,Anirudh Kunda,Kochi,Kerala,Business,Inactive
+CUST0480,Mason Wable,Bengaluru,Karnataka,Standard,Active
+CUST0481,Indrajit Mani,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0482,Charvi Dara,Hyderabad,Telangana,Premium,Active
+CUST0483,William Saini,Mumbai,Maharashtra,Business,Active
+CUST0484,Dev Choudhry,Kochi,Kerala,Business,Inactive
+CUST0485,Amol Varma,Bengaluru,Karnataka,Business,Active
+CUST0486,Maanas Manne,Nashik,Maharashtra,Business,Active
+CUST0487,Aarav Pandit,Mumbai,Maharashtra,Premium,Active
+CUST0488,Omaja Grover,Mumbai,Maharashtra,Premium,Inactive
+CUST0489,Jalsa Bir,Mumbai,Maharashtra,Premium,Active
+CUST0490,Madhavi Singhal,Pune,Maharashtra,Premium,Active
+CUST0491,Lila Prakash,Mysuru,Karnataka,Premium,Active
+CUST0492,Amol Parikh,Hyderabad,Telangana,Business,Inactive
+CUST0493,Hemani Khosla,Bengaluru,Karnataka,Standard,Active
+CUST0494,Gaurangi Deol,Bengaluru,Karnataka,Premium,Active
+CUST0495,Indira Nigam,Salem,Tamil Nadu,Business,Active
+CUST0496,Ucchal Srinivas,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0497,Krishna Bhatnagar,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0498,Balhaar Memon,Mysuru,Karnataka,Standard,Inactive
+CUST0499,Caleb Iyengar,Pune,Maharashtra,Business,Inactive
+CUST0500,Diya Mukherjee,Nashik,Maharashtra,Business,Active
+CUST0501,Urvashi Kulkarni,Madurai,Tamil Nadu,Business,Active
+CUST0502,Rayaan Mangal,Pune,Maharashtra,Standard,Active
+CUST0503,Champak Narula,Hyderabad,Telangana,Business,Inactive
+CUST0504,Jeet Pillai,Coimbatore,Tamil Nadu,Standard,Active
+CUST0505,Mugdha Sarraf,Nashik,Maharashtra,Business,Active
+CUST0506,Harinakshi Grover,Bengaluru,Karnataka,Premium,Active
+CUST0507,Widisha Pillai,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0508,Fitan Samra,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0509,Qushi Gole,Chennai,Tamil Nadu,Standard,Active
+CUST0510,Ekani Chauhan,Salem,Tamil Nadu,Premium,Active
+CUST0511,Falak Merchant,Pune,Maharashtra,Standard,Active
+CUST0512,Sanaya Sandhu,Nashik,Maharashtra,Standard,Inactive
+CUST0513,Sachi Panchal,Bengaluru,Karnataka,Standard,Active
+CUST0514,Brijesh Pandit,Bengaluru,Karnataka,Business,Active
+CUST0515,Anvi Bhandari,Mumbai,Maharashtra,Premium,Inactive
+CUST0516,Nidra Patla,Pune,Maharashtra,Standard,Active
+CUST0517,Azaan Dhar,Madurai,Tamil Nadu,Business,Active
+CUST0518,Bakhshi Date,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0519,Warinder Peri,Kolkata,West Bengal,Standard,Active
+CUST0520,Leela Bali,Hyderabad,Telangana,Business,Active
+CUST0521,Shivani Prabhakar,Mysuru,Karnataka,Standard,Active
+CUST0522,Sachi Bose,Kochi,Kerala,Business,Inactive
+CUST0523,Jeevika Rao,Kochi,Kerala,Business,Inactive
+CUST0524,Arya Krish,Mumbai,Maharashtra,Premium,Active
+CUST0525,Atharv Grewal,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0526,Zarna Ram,Pune,Maharashtra,Premium,Active
+CUST0527,Adweta Lad,Madurai,Tamil Nadu,Business,Inactive
+CUST0528,Tanish Mangal,Vijayawada,Andhra Pradesh,Business,Active
+CUST0529,Ryan Das,Chennai,Tamil Nadu,Standard,Inactive
+CUST0530,Ethan Seth,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0531,Sai Chahal,Coimbatore,Tamil Nadu,Premium,Active
+CUST0532,Idika Bhattacharyya,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0533,Charita Dugar,Madurai,Tamil Nadu,Premium,Active
+CUST0534,Janaki Trivedi,Chennai,Tamil Nadu,Premium,Inactive
+CUST0535,Jairaj Iyer,Hyderabad,Telangana,Standard,Inactive
+CUST0536,Warjas Tak,Vijayawada,Andhra Pradesh,Business,Active
+CUST0537,Jalsa Pillay,Vijayawada,Andhra Pradesh,Business,Active
+CUST0538,Kai Chadha,Bengaluru,Karnataka,Premium,Active
+CUST0539,Dayamai Rao,Mumbai,Maharashtra,Standard,Inactive
+CUST0540,Nirja Rout,Kolkata,West Bengal,Standard,Active
+CUST0541,Jeremiah Nadig,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST0542,Shivani Shukla,Salem,Tamil Nadu,Business,Inactive
+CUST0543,Kabir Gopal,Madurai,Tamil Nadu,Standard,Inactive
+CUST0544,Rachita Thakkar,Chennai,Tamil Nadu,Premium,Active
+CUST0545,Jeet Vasa,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0546,Daksha Gala,Nashik,Maharashtra,Business,Active
+CUST0547,Ekantika Kar,Bengaluru,Karnataka,Premium,Active
+CUST0548,Zilmil Mander,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0549,Zashil Hegde,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0550,Jeremiah Mitter,Nashik,Maharashtra,Premium,Active
+CUST0551,Yadavi Ganguly,Coimbatore,Tamil Nadu,Premium,Active
+CUST0552,Onveer Nazareth,Bengaluru,Karnataka,Business,Active
+CUST0553,Ayush Bumb,Vijayawada,Andhra Pradesh,Business,Active
+CUST0554,Alka Kade,Kolkata,West Bengal,Premium,Active
+CUST0555,Azaan Tank,Salem,Tamil Nadu,Business,Active
+CUST0556,Chasmum Subramanian,Coimbatore,Tamil Nadu,Standard,Active
+CUST0557,Nidra Mishra,Madurai,Tamil Nadu,Standard,Active
+CUST0558,Elijah Bhasin,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0559,Ria Sagar,Hyderabad,Telangana,Business,Inactive
+CUST0560,Ucchal Jani,Kochi,Kerala,Business,Inactive
+CUST0561,Maanas Munshi,Mysuru,Karnataka,Business,Active
+CUST0562,Hemani Rastogi,Nashik,Maharashtra,Business,Active
+CUST0563,Kamala Varma,Hyderabad,Telangana,Premium,Active
+CUST0564,Eiravati Khurana,Kochi,Kerala,Premium,Active
+CUST0565,Jason Loke,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0566,Yug Dhaliwal,Pune,Maharashtra,Business,Active
+CUST0567,Chandresh Mannan, Madurai ,Tamil Nadu,Premium,Inactive
+CUST0568,Omya Kothari,Chennai,Tamil Nadu,Standard,Active
+CUST0569,Falak Munshi,Nashik,Maharashtra,Premium,Active
+CUST0570,Nathaniel Tara,Mysuru,Karnataka,Standard,Inactive
+CUST0571,Wishi Morar,Kochi,Kerala,Business,Active
+CUST0572,Arin Chana,Kochi,Kerala,Business,Active
+CUST0573,Yashasvi Shankar,Pune,Maharashtra,Business,Inactive
+CUST0574,Tanveer Pandit,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0575,Chandresh Manda,Kochi,Kerala,Standard,Active
+CUST0576,Upma Mangal,Salem,Tamil Nadu,Standard,Active
+CUST0577,Hritik Sankar,Chennai,Tamil Nadu,Standard,Inactive
+CUST0578,Aishani Pau,Kochi,Kerala,Business,Active
+CUST0579,Jasmit Bath,Pune,Maharashtra,Premium,Active
+CUST0580,Charan Hayer,Mumbai,Maharashtra,Premium,Active
+CUST0581,Bhavya Borah,Mysuru,Karnataka,Business,Active
+CUST0582,Yamini Seshadri,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0583,Jagat Dave,Bengaluru,Karnataka,Premium,Active
+CUST0584,Meera Prakash,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0585,Jasmit Dhawan,Madurai,Tamil Nadu,Premium,Active
+CUST0586,Yashodhara Ratti,Pune,Maharashtra,Standard,Active
+CUST0587,Chakradev Barad,Kolkata,West Bengal,Premium,Active
+CUST0588,Gauri Som,Mysuru,Karnataka,Business,Inactive
+CUST0589,Manthan Varma,Hyderabad,Telangana,Business,Active
+CUST0590,Falak Nagar,Madurai,Tamil Nadu,Business,Inactive
+CUST0591,Maya Mistry,Mysuru,Karnataka,Premium,Active
+CUST0592,Yashica Upadhyay,Mysuru,Karnataka,Business,Active
+CUST0593,Chandani Soman,Mysuru,Karnataka,Business,Inactive
+CUST0594,Jyoti Narula,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0595,Omaja Morar,Pune,Maharashtra,Premium,Active
+CUST0596,Urvi Lanka,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0597,Charan Srinivasan,Coimbatore,Tamil Nadu,Standard,Active
+CUST0598,Lajita Divan,Hyderabad,Telangana,Standard,Active
+CUST0599,Azad Choudhary,Nashik,Maharashtra,Standard,Active
+CUST0600,Anirudh Sastry,Mysuru,Karnataka,Premium,Active
+CUST0601,Omya Doshi,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0602,Samar Roy,Hyderabad,Telangana,Standard,Active
+CUST0603,David Devi,Salem,Tamil Nadu,Premium,Active
+CUST0604,Ekta Sridhar,Mumbai,Maharashtra,Premium,Active
+CUST0605,Dipta Ghose,Kochi,Kerala,Business,Active
+CUST0606,Hema Pandya,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0607,Veda Handa,Coimbatore,Tamil Nadu,Business,Active
+CUST0608,Arya Misra,Madurai,Tamil Nadu,Premium,Active
+CUST0609,Chameli Mani,Pune,Maharashtra,Business,Inactive
+CUST0610,Vrinda Nadig,Kochi,Kerala,Premium,Inactive
+CUST0611,Ikshita Mahal,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0612,Jairaj Raghavan,Hyderabad,Telangana,Standard,Active
+CUST0613,Hemani Dhingra,Nashik,Maharashtra,Premium,Active
+CUST0614,Brijesh Mani,Mysuru,Karnataka,Premium,Active
+CUST0615,Hiral Sathe,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0616,Varenya Kala,Madurai,Tamil Nadu,Standard,Active
+CUST0617,Anika Magar,Madurai,Tamil Nadu,Premium,Active
+CUST0618,Ikbal Khatri,Nashik,Maharashtra,Premium,Active
+CUST0619,Chandresh Wali,Kolkata,West Bengal,Standard,Inactive
+CUST0620,Viraj Ben,Kolkata,West Bengal,Premium,Active
+CUST0621,Odika Narayanan,Mumbai,Maharashtra,Standard,Inactive
+CUST0622,Harish Devan,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0623,Nakul Ray,Mumbai,Maharashtra,Standard,Active
+CUST0624,Vansha Iyengar,Coimbatore,Tamil Nadu,Standard,Active
+CUST0625,Ekani Mangal,Kolkata,West Bengal,Standard,Active
+CUST0626,Gaurav Kata,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0627,Parth Sahni,Chennai,Tamil Nadu,Premium,Inactive
+CUST0628,Balhaar Ranganathan,Salem,Tamil Nadu,Standard,Inactive
+CUST0629,Quincy Mann,Kochi,Kerala,Business,Active
+CUST0630,Aditya Misra,Kolkata,West Bengal,Standard,Active
+CUST0631,Gautami Mane,Madurai,Tamil Nadu,Standard,Active
+CUST0632,Wakeeta Desai,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0633,Anjali Hans,Bengaluru,Karnataka,Premium,Active
+CUST0634,Ganga Gaba,Madurai,Tamil Nadu,Standard,Active
+CUST0635,Aarini Grewal,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST0636,Geetika Merchant,Bengaluru,Karnataka,Standard,Inactive
+CUST0637,Parth Ravi,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0638,Yutika Narang,Mysuru,Karnataka,Business,Active
+CUST0639,Nandini Chandran,Salem,Tamil Nadu,Standard,Active
+CUST0640,Logan Sood,Mumbai,Maharashtra,Standard,Active
+CUST0641,Yuvraj Ahuja,Coimbatore,Tamil Nadu,Business,Inactive
+CUST0642,Leela Keer,Hyderabad,Telangana,Business,Active
+CUST0643,Amara Narayan,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0644,Advay Lal,Vijayawada,Andhra Pradesh,Business,Active
+CUST0645,Warinder Bhatia,Mumbai,Maharashtra,Premium,Active
+CUST0646,Udyati Mohanty,Mysuru,Karnataka,Premium,Active
+CUST0647,Nidra Thakkar,Madurai,Tamil Nadu,Business,Active
+CUST0648,Jacob Merchant,Pune,Maharashtra,Standard,Active
+CUST0649,Timothy Kanda,Coimbatore,Tamil Nadu,Business,Active
+CUST0650,Vanya Dua,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0651,Kashvi Sagar,Hyderabad,Telangana,Standard,Active
+CUST0652,Tejas Kota,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0653,Sanya Wable,Nashik,Maharashtra,Business,Inactive
+CUST0654,Faras Choudhury,Salem,Tamil Nadu,Premium,Active
+CUST0655,Yashasvi Jain,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0656,Nitesh Narang,Salem,Tamil Nadu,Premium,Active
+CUST0657,Jackson Jha,Madurai,Tamil Nadu,Standard,Active
+CUST0658,Gavin Uppal,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0659,Christopher Setty,Pune,Maharashtra,Premium,Inactive
+CUST0660,Yochana Sagar,Nashik,Maharashtra,Business,Inactive
+CUST0661,Dalbir Shere,Madurai,Tamil Nadu,Standard,Active
+CUST0662,Anthony Randhawa,Madurai,Tamil Nadu,Premium,Active
+CUST0663,Aarush Kamdar,Nashik,Maharashtra,Business,Active
+CUST0664,Chakradev Sampath,Madurai,Tamil Nadu,Standard,Active
+CUST0665,Devansh Bhasin,Mumbai,Maharashtra,Premium,Inactive
+CUST0666,Urmi Balay,Kolkata,West Bengal,Premium,Active
+CUST0667,Nilima Gole,Hyderabad,Telangana,Premium,Inactive
+CUST0668,Osha Prasad,Pune,Maharashtra,Business,Active
+CUST0669,Saumya Purohit,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0670,Faris Zacharia,Bengaluru,Karnataka,Premium,Active
+CUST0671,Ijaya Dani,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0672,Maya Wadhwa,Bengaluru,Karnataka,Standard,Active
+CUST0673,Udant Aggarwal,Mysuru,Karnataka,Premium,Active
+CUST0674,Chanchal Sheth,Kochi,Kerala,Business,Inactive
+CUST0675,Ladli Karpe,Hyderabad,Telangana,Business,Inactive
+CUST0676,Triveni Pal,Pune,Maharashtra,Premium,Active
+CUST0677,Anya Gulati,Salem,Tamil Nadu,Premium,Inactive
+CUST0678,Azad Saini,Madurai,Tamil Nadu,Business,Active
+CUST0679,Wridesh Jhaveri,Bengaluru,Karnataka,Business,Inactive
+CUST0680,Harrison Bandi,Pune,Maharashtra,Business,Active
+CUST0681,Chanakya Konda,Chennai,Tamil Nadu,Standard,Inactive
+CUST0682,Neelima Sarna,Chennai,Tamil Nadu,Standard,Active
+CUST0683,Teerth Bhalla,Coimbatore,Tamil Nadu,Business,Active
+CUST0684,Yahvi Mann,Pune,Maharashtra,Premium,Active
+CUST0685,Eiravati Nagi,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST0686,Chasmum Dhar,Pune,Maharashtra,Premium,Inactive
+CUST0687,Odika Mital,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0688,Darsh Gill,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0689,Warhi Batta,Pune,Maharashtra,Business,Active
+CUST0690,Lakshmi Vohra,Coimbatore,Tamil Nadu,Standard,Active
+CUST0691,Omaja Rege,Salem,Tamil Nadu,Standard,Inactive
+CUST0692,Charita Puri,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0693,Urvashi Khosla,Madurai,Tamil Nadu,Premium,Inactive
+CUST0694,Charita Dhawan,Coimbatore,Tamil Nadu,Business,Active
+CUST0695,Dalbir Sachar,Salem,Tamil Nadu,Premium,Active
+CUST0696,Krish Rama,Bengaluru,Karnataka,Standard,Active
+CUST0697,Aadhya Jani,Kochi,Kerala,Standard,Inactive
+CUST0698,Farhan Sengupta,Bengaluru,Karnataka,Business,Active
+CUST0699,George Wason,Mysuru,Karnataka,Premium,Active
+CUST0700,Charan Loyal,Vijayawada,Andhra Pradesh,Business,Active
+CUST0701,Balveer Bora,Kolkata,West Bengal,Premium,Active
+CUST0702,Teerth Srinivas,Salem,Tamil Nadu,Business,Active
+CUST0703,Gaurangi Mitter,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0704,Siddharth Gupta,Bengaluru,Karnataka,Standard,Active
+CUST0705,Varenya Kibe,Coimbatore,Tamil Nadu,Premium,Active
+CUST0706,Mekhala Khatri,Pune,Maharashtra,Business,Active
+CUST0707,Barkha Rai,Kochi,Kerala,Business,Active
+CUST0708,Jagrati Morar,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0709,Jagvi Varghese,Madurai,Tamil Nadu,Premium,Inactive
+CUST0710,Unnati Chaudhari,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0711,Ekaja Jani,Nashik,Maharashtra,Business,Active
+CUST0712,Dhriti Sachdev,Hyderabad,Telangana,Premium,Active
+CUST0713,Timothy Dhingra,Kochi,Kerala,Premium,Active
+CUST0714,Advika Sahni,Hyderabad,Telangana,Business,Active
+CUST0715,Michael Hayre,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0716,Victor Raghavan,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0717,Xalak Nazareth,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0718,Vrinda Swaminathan,Hyderabad,Telangana,Standard,Active
+CUST0719,Om Pandey,Kolkata,West Bengal,Business,Active
+CUST0720,Logan Suresh,Pune,Maharashtra,Business,Active
+CUST0721,Daniel Viswanathan,Nashik,Maharashtra,Standard,Active
+CUST0722,Falan Bava,Coimbatore,Tamil Nadu,Business,Active
+CUST0723,Nitara Devan,Hyderabad,Telangana,Business,Active
+CUST0724,Ekansh Dora,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0725,Tejas Tiwari,Vijayawada,Andhra Pradesh,Business,Active
+CUST0726,Kashvi Bhasin,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0727,Vinaya Babu,Hyderabad,Telangana,Business,Active
+CUST0728,Nisha Arora,Nashik,Maharashtra,Business,Active
+CUST0729,Anvi Wason,Nashik,Maharashtra,Standard,Active
+CUST0730,Anay Thakkar,Chennai,Tamil Nadu,Business,Active
+CUST0731,Praneel Chhabra,Mysuru,Karnataka,Standard,Inactive
+CUST0732,Manthan Khosla,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0733,Zayyan Pandya,Kochi,Kerala,Business,Active
+CUST0734,Mekhala Brar,Mysuru,Karnataka,Premium,Inactive
+CUST0735,Nidra Sharaf,Coimbatore,Tamil Nadu,Business,Inactive
+CUST0736,Upkaar Mital,Madurai,Tamil Nadu,Premium,Active
+CUST0737,Azad Chander,Salem,Tamil Nadu,Standard,Active
+CUST0738,Ladli Purohit,Kochi,Kerala,Premium,Inactive
+CUST0739,Daksh Andra,Kochi,Kerala,Standard,Active
+CUST0740,Fitan Tata,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0741,Garima Chandran,Nashik,Maharashtra,Business,Active
+CUST0742,Victor Kakar,Salem,Tamil Nadu,Premium,Inactive
+CUST0743,Anika Batra,Hyderabad,Telangana,Premium,Active
+CUST0744,Avni Bali,Pune,Maharashtra,Standard,Inactive
+CUST0745,Divya Babu,Bengaluru,Karnataka,Premium,Inactive
+CUST0746,Maanas Rao,Coimbatore,Tamil Nadu,Standard,Active
+CUST0747,Chandani Gaba,Chennai,Tamil Nadu,Premium,Inactive
+CUST0748,Lopa Zachariah,Nashik,Maharashtra,Business,Inactive
+CUST0749,Leena Dey,Coimbatore,Tamil Nadu,Standard,Active
+CUST0750,Xiti Pal,Kolkata,West Bengal,Business,Active
+CUST0751,Guneet Sarkar,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0752,Faqid Oak,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0753,Eta Balan,Kolkata,West Bengal,Premium,Inactive
+CUST0754,Shravya Swaminathan,Chennai,Tamil Nadu,Standard,Inactive
+CUST0755,Ishani Prashad,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0756,Quincy Rai,Coimbatore,Tamil Nadu,Business,Active
+CUST0757,Chakrika Koshy,Chennai,Tamil Nadu,Standard,Active
+CUST0758,Fitan Loyal,Kochi,Kerala,Business,Inactive
+CUST0759,Lajita Dube,Madurai,Tamil Nadu,Business,Active
+CUST0760,Edhitha Patel,Nashik,Maharashtra,Standard,Inactive
+CUST0761,Gavin Ahluwalia,Hyderabad,Telangana,Premium,Active
+CUST0762,Sai Parsa,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0763,Harsh Deo,Chennai,Tamil Nadu,Premium,Active
+CUST0764,Rachit Sankar,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0765,Yauvani Reddy,Pune,Maharashtra,Business,Active
+CUST0766,Atharv Chakraborty,Bengaluru,Karnataka,Premium,Inactive
+CUST0767,Girik Nair,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0768,Advik Manne,Nashik,Maharashtra,Business,Active
+CUST0769,Lipika Chad,Hyderabad,Telangana,Standard,Inactive
+CUST0770,Omkaar Rai,Pune,Maharashtra,Premium,Active
+CUST0771,Liam Luthra,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0772,Amrita Tailor,visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST0773,Dev Ganesh,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0774,Anya Sama,Chennai,Tamil Nadu,Standard,Active
+CUST0775,Veda Bose,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST0776,Zayan Koshy,Hyderabad,Telangana,Business,Active
+CUST0777,Rohan Shankar,Pune,Maharashtra,Business,Active
+CUST0778,Krishna Modi,Hyderabad,Telangana,Premium,Active
+CUST0779,Meghana Natarajan,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST0780,Forum Sarraf,Salem,Tamil Nadu,Business,Active
+CUST0781,Qushi Deshpande,Kochi,Kerala,Standard,Active
+CUST0782,Ekani Iyer,Pune,Maharashtra,Business,Active
+CUST0783,Dipta Goel, Mumbai ,Maharashtra,Business,Active
+CUST0784,Eiravati Manne,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0785,Xavier Nanda,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0786,Avni Ramaswamy,Mysuru,Karnataka,Business,Active
+CUST0787,Ishaan Iyengar,Salem,Tamil Nadu,Standard,Inactive
+CUST0788,Avi Shenoy,Hyderabad,Telangana,Business,Inactive
+CUST0789,Raksha Manne,Hyderabad,Telangana,Business,Active
+CUST0790,Nilima Tata,Chennai,Tamil Nadu,Business,Active
+CUST0791,Chavvi Khurana,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0792,Mitesh Sampath,Pune,Maharashtra,Premium,Active
+CUST0793,Ethan Sen,Mumbai,Maharashtra,Business,Active
+CUST0794,Nandini Warrior,Mumbai,Maharashtra,Business,Inactive
+CUST0795,Balhaar Parsa,Nashik,Maharashtra,Business,Active
+CUST0796,Ikbal Kothari,Salem,Tamil Nadu,Standard,Active
+CUST0797,Ojas Basu,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0798,Garima Sani,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0799,Advaith Chaudhari,Hyderabad,Telangana,Premium,Active
+CUST0800,Tristan Uppal,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0801,Sanaya Prasad,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0802,Ubika Tella,Coimbatore,Tamil Nadu,Premium,Active
+CUST0803,Hemani Bakshi,Coimbatore,Tamil Nadu,Premium,Active
+CUST0804,Henry Merchant,Salem,Tamil Nadu,Standard,Inactive
+CUST0805,Frederick D’Alia,Pune,Maharashtra,Premium,Active
+CUST0806,Ijaya Muni,Vijayawada,Andhra Pradesh,Business,Active
+CUST0807,Tamanna Jhaveri,Madurai,Tamil Nadu,Standard,Inactive
+CUST0808,Ijaya Soni,Kolkata,West Bengal,Premium,Active
+CUST0809,Raksha Sethi,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0810,Ekalinga Mital,Chennai,Tamil Nadu,Premium,Active
+CUST0811,Ishwar Bajaj,Pune,Maharashtra,Premium,Active
+CUST0812,Ikbal Gala,Salem,Tamil Nadu,Premium,Active
+CUST0813,Zaitra Ghosh,Coimbatore,Tamil Nadu,Business,Active
+CUST0814,Ganga Sandhu,Kolkata,West Bengal,Business,Active
+CUST0815,Vincent Ravel,Hyderabad,Telangana,Standard,Active
+CUST0816,Quincy Sankaran,Coimbatore,Tamil Nadu,Standard,Active
+CUST0817,Ayush Hora,Mysuru,Karnataka,Standard,Active
+CUST0818,Pushti Ramachandran,Bengaluru,Karnataka,Premium,Active
+CUST0819,Tanish Jha,Salem,Tamil Nadu,Premium,Active
+CUST0820,Dev Chaudry,Mysuru,Karnataka,Standard,Active
+CUST0821,Jasmit Nanda,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST0822,Tanvi Comar,Mysuru,Karnataka,Premium,Inactive
+CUST0823,Vrishti Wable,Mysuru,Karnataka,Standard,Active
+CUST0824,Lipika Ramanathan,Pune,Maharashtra,Premium,Active
+CUST0825,Ijaya Pandey,Kolkata,West Bengal,Standard,Active
+CUST0826,Orinder Mishra,Vijayawada,Andhra Pradesh,Business,Active
+CUST0827,Krish Munshi,Kolkata,West Bengal,Standard,Inactive
+CUST0828,William Mody,Kolkata,West Bengal,Standard,Active
+CUST0829,Qadim Prakash,Nashik,Maharashtra,Premium,Inactive
+CUST0830,Yasti Rama,Hyderabad,Telangana,Business,Active
+CUST0831,Lakshit Rajagopal,Kolkata,West Bengal,Standard,Active
+CUST0832,Quincy Sur,Madurai,Tamil Nadu,Business,Active
+CUST0833,Ojas Suri,Kolkata,West Bengal,Premium,Active
+CUST0834,Logan Grover,Kochi,Kerala,Business,Inactive
+CUST0835,Shravya Bera,Kolkata,West Bengal,Standard,Inactive
+CUST0836,Aditya Sundaram,Madurai,Tamil Nadu,Standard,Active
+CUST0837,Robert Rajagopalan,Pune,Maharashtra,Standard,Inactive
+CUST0838,Nilima Swamy,Mysuru,Karnataka,Premium,Active
+CUST0839,Sachi Suresh,Chennai,Tamil Nadu,Business,Active
+CUST0840,Fitan Balasubramanian,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0841,Brinda Bali,Hyderabad,Telangana,Business,Inactive
+CUST0842,Umang Yogi,Nashik,Maharashtra,Premium,Active
+CUST0843,Om Shankar,Bengaluru,Karnataka,Premium,Active
+CUST0844,Yasti Chowdhury,Hyderabad,Telangana,Standard,Inactive
+CUST0845,Amrita Peri,Pune,Maharashtra,Standard,Active
+CUST0846,Ridhi Kamdar,Madurai,Tamil Nadu,Premium,Active
+CUST0847,Harsh Kota,Kochi,Kerala,Premium,Active
+CUST0848,Bachittar Sengupta,Madurai,Tamil Nadu,Business,Active
+CUST0849,Ijaya Chahal,Madurai,Tamil Nadu,Business,Active
+CUST0850,Jacob Khalsa,Salem,Tamil Nadu,Standard,Active
+CUST0851,Indali Sangha,Mysuru,Karnataka,Standard,Inactive
+CUST0852,Liam Jhaveri,Madurai,Tamil Nadu,Standard,Inactive
+CUST0853,Daniel Panchal,Mysuru,Karnataka,Business,Active
+CUST0854,Om Naik,Salem,Tamil Nadu,Standard,Active
+CUST0855,Bimala Loke,Pune,Maharashtra,Business,Active
+CUST0856,Krishna Sabharwal,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0857,Aradhana Date,Hyderabad,Telangana,Premium,Active
+CUST0858,Zaid Dhingra,Mumbai,Maharashtra,Business,Inactive
+CUST0859,Yug Ramaswamy,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0860,Lucky Luthra,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0861,Keya Seth,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0862,Girik Rau,Bengaluru,Karnataka,Business,Active
+CUST0863,Jyoti Sha,Chennai,Tamil Nadu,Business,Active
+CUST0864,Falak Agate,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0865,Tara Parmar,Hyderabad,Telangana,Premium,Inactive
+CUST0866,Mitali Kamdar,Bengaluru,Karnataka,Business,Active
+CUST0867,Siddharth Talwar,Salem,Tamil Nadu,Business,Inactive
+CUST0868,Ekantika Mander,Bengaluru,Karnataka,Business,Inactive
+CUST0869,Kalpit Sundaram,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0870,Chanakya Batra,Hyderabad,Telangana,Business,Inactive
+CUST0871,Tripti Babu,Kochi,Kerala,Business,Active
+CUST0872,Nakul Sastry,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0873,Aadi Sangha,Salem,Tamil Nadu,Standard,Inactive
+CUST0874,Kevin Mittal,Madurai,Tamil Nadu,Standard,Active
+CUST0875,Anusha Chander,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0876,Zashil Butala,Mumbai,Maharashtra,Premium,Active
+CUST0877,Noah Ben,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0878,Dalaja Kaur,Kolkata,West Bengal,Premium,Active
+CUST0879,Gavin Chandran,Madurai,Tamil Nadu,Premium,Active
+CUST0880,Tanay Sood,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0881,Kevin Kara,Pune,Maharashtra,Premium,Inactive
+CUST0882,Aditya Anand,Nashik,Maharashtra,Premium,Inactive
+CUST0883,Jai Sami,Bengaluru,Karnataka,Business,Active
+CUST0884,Vanya Bobal,Mysuru,Karnataka,Premium,Active
+CUST0885,Leela Chakraborty,Hyderabad,Telangana,Business,Inactive
+CUST0886,Harshil Munshi,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0887,Chandani Devan,Nashik,Maharashtra,Standard,Active
+CUST0888,Kiaan Dhar,Madurai,Tamil Nadu,Premium,Inactive
+CUST0889,Abhiram Gala,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0890,Indali Kala,Coimbatore,Tamil Nadu,Premium,Active
+CUST0891,Nisha Savant,Hyderabad,Telangana,Premium,Active
+CUST0892,Gabriel Chaudhry,Kolkata,West Bengal,Business,Active
+CUST0893,Jatin Rajagopalan,Chennai,Tamil Nadu,Business,Inactive
+CUST0894,Pushti Murty,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0895,Yug Malhotra,Coimbatore,Tamil Nadu,Standard,Active
+CUST0896,Yuvraj Mane,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST0897,Charvi Jha,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0898,Manya Merchant,Coimbatore,Tamil Nadu,Business,Active
+CUST0899,Wriddhish Talwar,Mumbai,Maharashtra,Premium,Active
+CUST0900,Isaiah Khosla,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0901,Ekavir Wable,Hyderabad,Telangana,Business,Active
+CUST0902,Jalsa Nadig,Coimbatore,Tamil Nadu,Business,Active
+CUST0903,Lila Salvi,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST0904,Orinder Sinha,Coimbatore,Tamil Nadu,Premium,Active
+CUST0905,Anay Bir,Mysuru,Karnataka,Business,Active
+CUST0906,Adweta Kale,Mumbai,Maharashtra,Premium,Active
+CUST0907,Darpan Rao,Chennai,Tamil Nadu,Business,Active
+CUST0908,Yachana Sagar,Mysuru,Karnataka,Business,Inactive
+CUST0909,Neelima Butala,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0910,Arunima Chacko,Pune,Maharashtra,Business,Inactive
+CUST0911,Farhan Vaidya,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0912,Nachiket Yadav,Salem,Tamil Nadu,Premium,Inactive
+CUST0913,Mahika Bhatti,Hyderabad,Telangana,Premium,Inactive
+CUST0914,Rajeshri Khare,Hyderabad,Telangana,Business,Inactive
+CUST0915,Yash Chadha,Coimbatore,Tamil Nadu,Standard,Active
+CUST0916,Jack Setty,Nashik,Maharashtra,Business,Active
+CUST0917,Dayamai Gill,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0918,Advik Devan,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0919,Nihal Taneja,Vijayawada,Andhra Pradesh,Business,Active
+CUST0920,Zansi Lad,Mumbai,Maharashtra,Standard,Active
+CUST0921,Kamya Date,Coimbatore,Tamil Nadu,Premium,Active
+CUST0922,Jacob Balan,Kolkata,West Bengal,Premium,Active
+CUST0923,Pushti Magar,Bengaluru,Karnataka,Business,Active
+CUST0924,Adya Bose,Chennai,Tamil Nadu,Premium,Inactive
+CUST0925,Tamanna Vaidya,Mysuru,Karnataka,Business,Active
+CUST0926,Christopher Tata,Nashik,Maharashtra,Standard,Active
+CUST0927,Jhalak Dugar,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0928,Harshil D’Alia,Kochi,Kerala,Standard,Active
+CUST0929,Yashodhara Agate,Madurai,Tamil Nadu,Standard,Active
+CUST0930,Advik Konda,Kolkata,West Bengal,Standard,Active
+CUST0931,Urmi Patla,Salem,Tamil Nadu,Premium,Active
+CUST0932,Mason Gola,Salem,Tamil Nadu,Business,Active
+CUST0933,Oni Kapur,Mumbai,Maharashtra,Standard,Active
+CUST0934,Yuvraj Saha,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST0935,Anika Brahmbhatt,Kochi,Kerala,Business,Active
+CUST0936,Jagdish Thakkar,Madurai,Tamil Nadu,Premium,Active
+CUST0937,Praneel Kapoor,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0938,Nandini Biswas,Bengaluru,Karnataka,Business,Inactive
+CUST0939,Barkha Mukhopadhyay,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0940,Gabriel Shan,Pune,Maharashtra,Premium,Inactive
+CUST0941,Jyoti Iyer,Chennai,Tamil Nadu,Business,Active
+CUST0942,Daksha Kibe,Salem,Tamil Nadu,Standard,Active
+CUST0943,Jyoti Tak,Madurai,Tamil Nadu,Business,Inactive
+CUST0944,Yatan Dora,Madurai,Tamil Nadu,Standard,Active
+CUST0945,Nimrat Bajwa,Pune,Maharashtra,Standard,Inactive
+CUST0946,Hiral Andra,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST0947,Aarav Puri,Vijayawada,Andhra Pradesh,Business,Active
+CUST0948,Hemang Jha,Madurai,Tamil Nadu,Premium,Inactive
+CUST0949,Oni Swamy,Kochi,Kerala,Standard,Active
+CUST0950,Lucky Mammen,Hyderabad,Telangana,Standard,Inactive
+CUST0951,Caleb Kata,Hyderabad,Telangana,Business,Active
+CUST0952,Kashish Shanker,Vijayawada,Andhra Pradesh,Standard,Active
+CUST0953,Girish Tiwari,Nashik,Maharashtra,Business,Active
+CUST0954,Meera Borde,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST0955,Radhika De,Hyderabad,Telangana,Business,Active
+CUST0956,Bishakha Lal,Bengaluru,Karnataka,Business,Active
+CUST0957,Maya Narain,Chennai,Tamil Nadu,Standard,Inactive
+CUST0958,Sneha Magar,Pune,Maharashtra,Standard,Inactive
+CUST0959,Falan Jain,Mysuru,Karnataka,Premium,Active
+CUST0960,Ikbal Dugal,Chennai,Tamil Nadu,Business,Inactive
+CUST0961,Nitesh Sengupta,Chennai,Tamil Nadu,Standard,Active
+CUST0962,Dipta Ray,Vijayawada,Andhra Pradesh,Premium,Active
+CUST0963,Ishita Johal,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST0964,Darika Sheth,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST0965,Jagdish Chana,Kolkata,West Bengal,Standard,Active
+CUST0966,Daksha Baria,Coimbatore,Tamil Nadu,Standard,Active
+CUST0967,Falak Divan,Nashik,Maharashtra,Premium,Active
+CUST0968,Yuvraj Parekh,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0969,Yochana Bawa,Pune,Maharashtra,Premium,Inactive
+CUST0970,Abha Ghosh,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0971,Nidhi Sethi,Madurai,Tamil Nadu,Business,Active
+CUST0972,Girindra Shere,Mysuru,Karnataka,Business,Active
+CUST0973,Logan Dara,Bengaluru,Karnataka,Premium,Inactive
+CUST0974,David Kapadia,Mumbai,Maharashtra,Business,Inactive
+CUST0975,Rudra Rattan,Chennai,Tamil Nadu,Business,Active
+CUST0976,Frado Lad,Salem,Tamil Nadu,Standard,Active
+CUST0977,Anthony Bhattacharyya,Kochi,Kerala,Premium,Active
+CUST0978,Sachi Dave,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST0979,Garima Das,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST0980,Triya Bedi,Madurai,Tamil Nadu,Standard,Active
+CUST0981,Rachita Rana,Mysuru,Karnataka,Premium,Active
+CUST0982,Ayushman Raja,Hyderabad,Telangana,Premium,Active
+CUST0983,Orinder Pandya,Coimbatore,Tamil Nadu,Business,Active
+CUST0984,Rachit Maharaj,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST0985,Sanaya Dixit,Kolkata,West Bengal,Standard,Active
+CUST0986,Yatan Merchant,Hyderabad,Telangana,Business,Active
+CUST0987,Nisha Srinivas,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST0988,Gagan Mammen,Mumbai,Maharashtra,Business,Active
+CUST0989,Laksh Saini,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST0990,Zaid Bahl,Vijayawada,Andhra Pradesh,Business,Active
+CUST0991,Jagrati Srinivasan,Chennai,Tamil Nadu,Standard,Inactive
+CUST0992,Hemangini Thakkar,Coimbatore,Tamil Nadu,Standard,Active
+CUST0993,Lipika Madan,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST0994,Atharv Nagar,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST0995,Ayushman Mand,Mysuru,Karnataka,Premium,Inactive
+CUST0996,Urmi Wagle,Kochi,Kerala,Standard,Active
+CUST0997,Viraj Dutta,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST0998,Yug Khosla,Hyderabad,Telangana,Business,Inactive
+CUST0999,Daksh Kanda,Bengaluru,Karnataka,Business,Active
+CUST1000,Isha Ghose,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1001,Warjas Nadkarni,Bengaluru,Karnataka,Premium,Active
+CUST1002,Ayaan Pandey,Mumbai,Maharashtra,Business,Active
+CUST1003,Raghav Tailor,Salem,Tamil Nadu,Premium,Active
+CUST1004,Parth Swaminathan,Pune,Maharashtra,Standard,Active
+CUST1005,Gautam Bhalla,Chennai,Tamil Nadu,Premium,Inactive
+CUST1006,Theodore Bahri,Pune,Maharashtra,Premium,Active
+CUST1007,Aadi Narula,Hyderabad,Telangana,Standard,Active
+CUST1008,Kalpit Oak,Mumbai,Maharashtra,Premium,Inactive
+CUST1009,Ekiya Bhargava,Bengaluru,Karnataka,Standard,Active
+CUST1010,Manbir Dhar,Pune,Maharashtra,Business,Active
+CUST1011,Janya Bora,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1012,Meghana Chaudhuri,Nashik,Maharashtra,Premium,Active
+CUST1013,Chasmum Naidu,Madurai,Tamil Nadu,Premium,Inactive
+CUST1014,Nakul Sarkar,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1015,Edhitha Ghosh,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1016,Udant Gill,Mysuru,Karnataka,Premium,Active
+CUST1017,Damyanti Menon,Hyderabad,Telangana,Premium,Active
+CUST1018,Peter Agarwal,Madurai,Tamil Nadu,Premium,Active
+CUST1019,Bachittar Gopal,Bengaluru,Karnataka,Standard,Inactive
+CUST1020,Timothy Chawla,Madurai,Tamil Nadu,Premium,Active
+CUST1021,Lohit Narula,Kochi,Kerala,Standard,Active
+CUST1022,Wazir Palan,Madurai,Tamil Nadu,Standard,Inactive
+CUST1023,Oliver Chakrabarti,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1024,Sanya Apte,Kochi,Kerala,Standard,Active
+CUST1025,Shaurya Krish,Madurai,Tamil Nadu,Standard,Inactive
+CUST1026,Inaya Kunda,Pune,Maharashtra,Business,Inactive
+CUST1027,Aarav Bava,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1028,Raksha Saini,Pune,Maharashtra,Premium,Active
+CUST1029,Odika Tailor,Madurai,Tamil Nadu,Premium,Active
+CUST1030,Indali Prashad,Kochi,Kerala,Premium,Active
+CUST1031,Varenya Kar,Mumbai,Maharashtra,Premium,Active
+CUST1032,Siya Borah,Salem,Tamil Nadu,Business,Inactive
+CUST1033,Chaitaly Bahri,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1034,Advika Cheema,Mumbai,Maharashtra,Premium,Inactive
+CUST1035,Hema Garde,Pune,Maharashtra,Standard,Active
+CUST1036,Naveen Borde,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1037,Hamsini Subramanian,Mysuru,Karnataka,Business,Active
+CUST1038,Raagini Gala,Salem,Tamil Nadu,Premium,Active
+CUST1039,Naksh Bera,Kochi,Kerala,Premium,Active
+CUST1040,Garima Jha,Nashik,Maharashtra,Premium,Inactive
+CUST1041,Nimrat Zachariah,Hyderabad,Telangana,Business,Active
+CUST1042,Baghyawati Mishra,Coimbatore,Tamil Nadu,Premium,Active
+CUST1043,Gopal Bawa,Salem,Tamil Nadu,Premium,Inactive
+CUST1044,Vritti Dube,Bengaluru,Karnataka,Premium,Inactive
+CUST1045,Jalsa Aggarwal,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1046,Gagan Menon,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1047,Ryan Chatterjee,Salem,Tamil Nadu,Business,Active
+CUST1048,Samuel Garde,Bengaluru,Karnataka,Standard,Active
+CUST1049,Finn Solanki,Hyderabad,Telangana,Business,Active
+CUST1050,Darika Rao,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST1051,Vrinda Lanka,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1052,Lila Goyal,Bengaluru,Karnataka,Standard,Active
+CUST1053,Lakshmi Pingle,Madurai,Tamil Nadu,Standard,Active
+CUST1054,Sanaya Basu,Kochi,Kerala,Premium,Inactive
+CUST1055,Ria Shroff,Kochi,Kerala,Business,Active
+CUST1056,Upkaar Luthra,Pune,Maharashtra,Standard,Inactive
+CUST1057,Matthew Chatterjee,Bengaluru,Karnataka,Premium,Inactive
+CUST1058,Hemangini Sachdev,Kolkata,West Bengal,Standard,Active
+CUST1059,Darsh Ram,Nashik,Maharashtra,Business,Active
+CUST1060,Vaishnavi Keer,Pune,Maharashtra,Premium,Active
+CUST1061,Chandani Brar,Kochi,Kerala,Standard,Inactive
+CUST1062,Bakhshi Thakkar,Pune,Maharashtra,Premium,Active
+CUST1063,Jai Sen,Kochi,Kerala,Business,Inactive
+CUST1064,Oliver Kakar,Pune,Maharashtra,Standard,Active
+CUST1065,Jonathan Basak,Chennai,Tamil Nadu,Business,Active
+CUST1066,Farhan Saran,Chennai,Tamil Nadu,Premium,Active
+CUST1067,Manbir Kuruvilla,Mysuru,Karnataka,Standard,Active
+CUST1068,Ekalinga Chahal,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1069,Mekhala Nanda,Pune,Maharashtra,Business,Inactive
+CUST1070,Zinal Shanker,Kochi,Kerala,Standard,Inactive
+CUST1071,Oni Chowdhury,Mysuru,Karnataka,Standard,Active
+CUST1072,Mason Divan,Mysuru,Karnataka,Business,Inactive
+CUST1073,Hitesh Chaudhuri,Mumbai,Maharashtra,Standard,Active
+CUST1074,Hemangini Roy,Kochi,Kerala,Business,Inactive
+CUST1075,Leela Sunder,Mumbai,Maharashtra,Standard,Active
+CUST1076,Baljiwan Gera,Coimbatore,Tamil Nadu,Premium,Active
+CUST1077,Neha Dhawan,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1078,Balvan Randhawa,Pune,Maharashtra,Premium,Active
+CUST1079,Wazir Bawa,Kochi,Kerala,Standard,Active
+CUST1080,Amruta Pradhan,Mysuru,Karnataka,Premium,Active
+CUST1081,Geetika Mitter,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1082,Avni Swamy,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1083,Vedant Desai,Pune,Maharashtra,Premium,Active
+CUST1084,Saanvi Nagi,Nashik,Maharashtra,Business,Active
+CUST1085,Omaja Chakraborty,Kolkata,West Bengal,Business,Active
+CUST1086,Riya Kakar,Mysuru,Karnataka,Standard,Active
+CUST1087,Vedhika Varty,Bengaluru,Karnataka,Standard,Active
+CUST1088,Daksh Varma,Bengaluru,Karnataka,Standard,Active
+CUST1089,Dominic Mukhopadhyay,Salem,Tamil Nadu,Standard,Inactive
+CUST1090,Krishna Viswanathan,Mumbai,Maharashtra,Business,Active
+CUST1091,Oscar Hans,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1092,Dalbir Krish,Hyderabad,Telangana,Premium,Active
+CUST1093,Tanmayi Bedi,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1094,Rushil Mahal,Madurai,Tamil Nadu,Standard,Active
+CUST1095,Ucchal Tiwari,Pune,Maharashtra,Premium,Active
+CUST1096,Jatin Balasubramanian,Nashik,Maharashtra,Premium,Active
+CUST1097,Kashish Suresh,Kochi,Kerala,Standard,Active
+CUST1098,Peter Som,Nashik,Maharashtra,Premium,Inactive
+CUST1099,Hemangini Gade,Mumbai,Maharashtra,Business,Inactive
+CUST1100,Gautam Mane,Mumbai,Maharashtra,Business,Inactive
+CUST1101,Libni Bawa,Kochi,Kerala,Standard,Active
+CUST1102,Tanish Kant,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1103,Samuel Luthra,Madurai,Tamil Nadu,Standard,Active
+CUST1104,Yochana Bahri,Coimbatore,Tamil Nadu,Business,Active
+CUST1105,Urvi Deo,Hyderabad,Telangana,Premium,Inactive
+CUST1106,Abhiram Kapur,Vijayawada,Andhra Pradesh,Business,Active
+CUST1107,Dalaja Maharaj,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1108,Krisha Palla,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1109,Zayyan Kamdar,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1110,Chasmum Verma,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1111,Harsh Amble,Bengaluru,Karnataka,Business,Active
+CUST1112,Barkha Misra,Madurai,Tamil Nadu,Standard,Inactive
+CUST1113,Vasatika Bhatt,Madurai,Tamil Nadu,Premium,Active
+CUST1114,Aradhana Nair,Kochi,Kerala,Standard,Active
+CUST1115,Advika Misra,Coimbatore,Tamil Nadu,Business,Active
+CUST1116,Mason Varughese,Nashik,Maharashtra,Business,Inactive
+CUST1117,Dakshesh Raval,Hyderabad,Telangana,Business,Active
+CUST1118,Logan Bal,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1119,Chakrika Lad,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1120,Nidhi Rama,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1121,Ranveer Oza,Pune,Maharashtra,Business,Active
+CUST1122,Vamakshi Parmer,Madurai,Tamil Nadu,Business,Active
+CUST1123,Onkar Golla,Nashik,Maharashtra,Business,Active
+CUST1124,Gunbir Sinha,Hyderabad,Telangana,Premium,Active
+CUST1125,Aarna Goswami,Madurai,Tamil Nadu,Business,Active
+CUST1126,Gaurav Kapadia,Salem,Tamil Nadu,Standard,Active
+CUST1127,Udant Mohanty,Hyderabad,Telangana,Business,Active
+CUST1128,Garima Prabhu,Nashik,Maharashtra,Standard,Inactive
+CUST1129,Chaitaly Sheth,Kochi,Kerala,Standard,Active
+CUST1130,Upma Bera,Mysuru,Karnataka,Premium,Inactive
+CUST1131,Urmi Hayer,Kochi,Kerala,Standard,Active
+CUST1132,Lakshmi Wagle,Mumbai,Maharashtra,Business,Active
+CUST1133,Odika Bhagat,Salem,Tamil Nadu,Premium,Inactive
+CUST1134,Laksh Iyer,Kochi,Kerala,Premium,Active
+CUST1135,Nimrat Shankar,Nashik,Maharashtra,Business,Active
+CUST1136,Diya Gole,Salem,Tamil Nadu,Premium,Active
+CUST1137,Vinaya Natarajan,Nashik,Maharashtra,Standard,Inactive
+CUST1138,Dhriti Bhardwaj,Coimbatore,Tamil Nadu,Premium,Active
+CUST1139,Siya Mahal,Kochi,Kerala,Premium,Active
+CUST1140,Om Dutt,Nashik,Maharashtra,Premium,Active
+CUST1141,Gaurang Dayal,Vijayawada,Andhra Pradesh,Business,Active
+CUST1142,Pushti Raval,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1143,Vansha Rajagopal,Kolkata,West Bengal,Business,Active
+CUST1144,Baljiwan Walla,Chennai,Tamil Nadu,Standard,Inactive
+CUST1145,Kashvi Atwal,Chennai,Tamil Nadu,Standard,Active
+CUST1146,Rayaan Badami,Kochi,Kerala,Premium,Active
+CUST1147,Yuvraj Kara,Mumbai,Maharashtra,Standard,Active
+CUST1148,Devika Dayal,Kolkata,West Bengal,Business,Active
+CUST1149,Leela Thakur,Hyderabad,Telangana,Premium,Active
+CUST1150,Oliver Bhattacharyya,Mysuru,Karnataka,Premium,Active
+CUST1151,Chanchal Mannan,Bengaluru,Karnataka,Premium,Active
+CUST1152,Zinal Viswanathan,Chennai,Tamil Nadu,Premium,Active
+CUST1153,Radha Desai,Salem,Tamil Nadu,Business,Active
+CUST1154,Vrishti Parmer,Mumbai,Maharashtra,Business,Active
+CUST1155,Nitesh Raval,Salem,Tamil Nadu,Standard,Active
+CUST1156,Vedant Kapur,Coimbatore,Tamil Nadu,Premium,Active
+CUST1157,Siddharth Bains,Hyderabad,Telangana,Business,Active
+CUST1158,Jatin Peri,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1159,Keya Kumer,Chennai,Tamil Nadu,Standard,Active
+CUST1160,Chanakya Chokshi,Nashik,Maharashtra,Standard,Inactive
+CUST1161,Chanakya D’Alia,Salem,Tamil Nadu,Standard,Inactive
+CUST1162,Sachi Rai,Bengaluru,Karnataka,Standard,Inactive
+CUST1163,Zayyan Som,Bengaluru,Karnataka,Business,Active
+CUST1164,Samesh Andra,Bengaluru,Karnataka,Premium,Active
+CUST1165,Osha Chaudhuri,Kolkata,West Bengal,Premium,Active
+CUST1166,Laksh Sahota,Mumbai,Maharashtra,Standard,Active
+CUST1167,Yasti Dalal,Bengaluru,Karnataka,Business,Active
+CUST1168,Ishaan Cherian,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1169,Rushil Iyengar,Kochi,Kerala,Premium,Active
+CUST1170,Saksham Parmar,Mysuru,Karnataka,Business,Active
+CUST1171,Chakrika Dyal,Kolkata,West Bengal,Premium,Inactive
+CUST1172,Watika Johal,Nashik,Maharashtra,Standard,Active
+CUST1173,Ganga Keer,Kolkata,West Bengal,Standard,Active
+CUST1174,Agastya Chakraborty,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1175,Wakeeta Dixit,Pune,Maharashtra,Premium,Active
+CUST1176,Yasti Borde,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1177,Aahana Kashyap,Madurai,Tamil Nadu,Business,Active
+CUST1178,Chaman Lalla,Coimbatore,Tamil Nadu,Business,Active
+CUST1179,Chandresh Chaudhry,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1180,Balveer Mannan,Nashik,Maharashtra,Business,Active
+CUST1181,Dhriti Sandhu,Coimbatore,Tamil Nadu,Business,Active
+CUST1182,Girish Bath,Salem,Tamil Nadu,Premium,Active
+CUST1183,Lakshit Garde,Mysuru,Karnataka,Standard,Active
+CUST1184,Ishita Sarma,Kochi,Kerala,Premium,Active
+CUST1185,Girik Pradhan,Coimbatore,Tamil Nadu,Premium,Active
+CUST1186,Qadim Comar,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1187,Mugdha Shan,Kolkata,West Bengal,Premium,Active
+CUST1188,Lekha Sridhar,Mumbai,Maharashtra,Business,Inactive
+CUST1189,Ojas Chowdhury,Pune,Maharashtra,Business,Active
+CUST1190,Daniel Dutta,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1191,Omaja Subramanian,Chennai,Tamil Nadu,Business,Active
+CUST1192,Pratyush Raghavan,Chennai,Tamil Nadu,Premium,Active
+CUST1193,Ayush De,Chennai,Tamil Nadu,Standard,Inactive
+CUST1194,Vinaya Chowdhury,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1195,Ridhi Batra,Mumbai,Maharashtra,Business,Inactive
+CUST1196,Advika Murthy,Bengaluru,Karnataka,Business,Active
+CUST1197,Udarsh Nigam,Madurai,Tamil Nadu,Standard,Active
+CUST1198,Rachita Kothari,Bengaluru,Karnataka,Business,Active
+CUST1199,Hiral Rajan,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1200,Chatura Apte,Mumbai,Maharashtra,Business,Active
+CUST1201,Yashasvi Singh,Madurai,Tamil Nadu,Business,Inactive
+CUST1202,Noah Borde,Salem,Tamil Nadu,Standard,Active
+CUST1203,Ekani Khosla,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST1204,Arunima Bedi,Bengaluru,Karnataka,Premium,Active
+CUST1205,Kritika Rau,Madurai,Tamil Nadu,Business,Active
+CUST1206,Farhan Sharaf,Bengaluru,Karnataka,Standard,Active
+CUST1207,Sara Chakrabarti,Salem,Tamil Nadu,Standard,Active
+CUST1208,Sanya Mutti,Kochi,Kerala,Premium,Active
+CUST1209,Widisha Badami,Hyderabad,Telangana,Premium,Active
+CUST1210,Netra Sachar,Salem,Tamil Nadu,Premium,Active
+CUST1211,Aadi Chand,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1212,Yashoda Jhaveri,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1213,Harita Patla,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1214,Udant Sha,Salem,Tamil Nadu,Business,Active
+CUST1215,Urvashi Patla,Kochi,Kerala,Premium,Active
+CUST1216,Ishaan Chatterjee,Chennai,Tamil Nadu,Premium,Active
+CUST1217,Aarnav Om,Pune,Maharashtra,Standard,Active
+CUST1218,Bishakha Vig,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1219,Hitesh Bath,Coimbatore,Tamil Nadu,Business,Active
+CUST1220,Waida Dey,Chennai,Tamil Nadu,Standard,Active
+CUST1221,Hredhaan Kumar,Chennai,Tamil Nadu,Premium,Active
+CUST1222,Raghav Dara,Mumbai,Maharashtra,Standard,Active
+CUST1223,Tanveer Shankar,Kolkata,West Bengal,Standard,Inactive
+CUST1224,Hamsini Chokshi,Coimbatore,Tamil Nadu,Premium,Active
+CUST1225,Chakradhar Dasgupta,Mumbai,Maharashtra,Business,Active
+CUST1226,Tanvi Thaman,Madurai,Tamil Nadu,Standard,Active
+CUST1227,Wishi Agrawal,Bengaluru,Karnataka,Business,Active
+CUST1228,Rachita Subramanian,Hyderabad,Telangana,Standard,Active
+CUST1229,Oscar Dave,Mumbai,Maharashtra,Standard,Inactive
+CUST1230,Lila Nagy,Nashik,Maharashtra,Premium,Active
+CUST1231,Omya Kothari,Pune,Maharashtra,Standard,Inactive
+CUST1232,Mitali Oza,Chennai,Tamil Nadu,Premium,Active
+CUST1233,Sneha Deol,Madurai,Tamil Nadu,Business,Active
+CUST1234,Nitara Vala,Salem,Tamil Nadu,Business,Active
+CUST1235,Dipta Kalla,Kochi,Kerala,Premium,Inactive
+CUST1236,Shaurya Mannan,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1237,Kevin Gokhale,Hyderabad,Telangana,Standard,Inactive
+CUST1238,Jack Pandey,Chennai,Tamil Nadu,Standard,Active
+CUST1239,Omisha Walla,Mysuru,Karnataka,Business,Active
+CUST1240,Pahal Arya,Pune,Maharashtra,Standard,Inactive
+CUST1241,Aryan Raj,Nashik,Maharashtra,Business,Active
+CUST1242,Chatresh Bhalla,Bengaluru,Karnataka,Standard,Active
+CUST1243,Amara Dyal,Mumbai,Maharashtra,Premium,Active
+CUST1244,Zashil Dhingra,Hyderabad,Telangana,Business,Active
+CUST1245,Chakrika Jani,Bengaluru,Karnataka,Standard,Active
+CUST1246,Jagrati Sethi,Kolkata,West Bengal,Business,Inactive
+CUST1247,Udarsh Ramachandran,Salem,Tamil Nadu,Premium,Inactive
+CUST1248,Yasti Mani,Salem,Tamil Nadu,Standard,Active
+CUST1249,Lakshmi Ram,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1250,Dhriti Bhagat,Bengaluru,Karnataka,Business,Active
+CUST1251,Zayan Jain,Mumbai,Maharashtra,Business,Active
+CUST1252,Umang Pillai,Coimbatore,Tamil Nadu,Premium,Active
+CUST1253,Rishi Menon,Nashik,Maharashtra,Premium,Inactive
+CUST1254,Peter Borde,Salem,Tamil Nadu,Business,Active
+CUST1255,Oscar Varkey,Pune,Maharashtra,Premium,Active
+CUST1256,Krishna Baria,Coimbatore,Tamil Nadu,Standard,Active
+CUST1257,Arya Lalla,Hyderabad,Telangana,Business,Active
+CUST1258,Naveen Kumer,Hyderabad,Telangana,Standard,Active
+CUST1259,Ganga Shukla,Kochi,Kerala,Premium,Active
+CUST1260,Balveer Dube,Mumbai,Maharashtra,Standard,Active
+CUST1261,Charan Mitra,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1262,Ishita Bora,Madurai,Tamil Nadu,Premium,Active
+CUST1263,Thomas Gour,Nashik,Maharashtra,Standard,Active
+CUST1264,Yashasvi Dutta,Hyderabad,Telangana,Business,Active
+CUST1265,Netra Chanda,Nashik,Maharashtra,Business,Active
+CUST1266,Timothy Kala,Coimbatore,Tamil Nadu,Premium,Active
+CUST1267,Garima Patel,BENGALURU,Karnataka,Business,Active
+CUST1268,Tejas Wali,Pune,Maharashtra,Premium,Active
+CUST1269,Aditya Contractor,Mysuru,Karnataka,Premium,Active
+CUST1270,Sanaya Khosla,Nashik,Maharashtra,Standard,Active
+CUST1271,Balveer Nagi,Mumbai,Maharashtra,Premium,Active
+CUST1272,Ishaan Raju,Bengaluru,Karnataka,Premium,Active
+CUST1273,Barkha Bakshi,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1274,Yoshita Trivedi,Chennai,Tamil Nadu,Standard,Active
+CUST1275,Vidhi Bassi,Hyderabad,Telangana,Standard,Inactive
+CUST1276,Reyansh Nagi,Pune,Maharashtra,Business,Active
+CUST1277,Gopal Ganesh,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1278,Dominic Kade,Kolkata,West Bengal,Standard,Active
+CUST1279,Panini Chawla,Bengaluru,Karnataka,Standard,Inactive
+CUST1280,Radhika Bora,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1281,Arjun Sharaf,Kolkata,West Bengal,Premium,Active
+CUST1282,Baljiwan Chahal,Chennai,Tamil Nadu,Premium,Active
+CUST1283,Chatura Gokhale,Hyderabad,Telangana,Business,Inactive
+CUST1284,Ekavir Kari,Nashik,Maharashtra,Business,Inactive
+CUST1285,Nikita Rama,Kochi,Kerala,Standard,Inactive
+CUST1286,Nidhi Sant,Mysuru,Karnataka,Premium,Active
+CUST1287,Anay Ramachandran,Pune,Maharashtra,Standard,Active
+CUST1288,Abeer Bhatnagar,Madurai,Tamil Nadu,Premium,Inactive
+CUST1289,Elijah Parmar,Kolkata,West Bengal,Standard,Active
+CUST1290,Bimala Mitra,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1291,Baghyawati Sarma,Mysuru,Karnataka,Premium,Inactive
+CUST1292,Megha Balasubramanian,Mumbai,Maharashtra,Business,Inactive
+CUST1293,Naksh Walla,Chennai,Tamil Nadu,Standard,Active
+CUST1294,Laban Raman,Mumbai,Maharashtra,Standard,Inactive
+CUST1295,Maanas Misra,Coimbatore,Tamil Nadu,Business,Active
+CUST1296,Advay Dhaliwal,Mysuru,Karnataka,Business,Active
+CUST1297,Benjamin Ahluwalia,Mumbai,Maharashtra,Business,Active
+CUST1298,Frederick Mody,Kochi,Kerala,Business,Inactive
+CUST1299,Hemangini Kakar,Pune,Maharashtra,Business,Active
+CUST1300,Yauvani Dhar,Mumbai,Maharashtra,Premium,Active
+CUST1301,Qarin Kant,Chennai,Tamil Nadu,Premium,Active
+CUST1302,Rishi Contractor,Chennai,Tamil Nadu,Premium,Active
+CUST1303,Chatura Shenoy,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1304,Bina Bhavsar,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1305,Guneet Hora,Hyderabad,Telangana,Standard,Active
+CUST1306,Ganga Parikh,Mysuru,Karnataka,Standard,Active
+CUST1307,Wahab Chaudhry,Vijayawada,Andhra Pradesh,Business,Active
+CUST1308,Ekaraj Hari,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1309,Vedika Seshadri,Pune,Maharashtra,Standard,Active
+CUST1310,Damini Dua,Coimbatore,Tamil Nadu,Business,Active
+CUST1311,Diya Sangha,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1312,Aayush Munshi,Kolkata,West Bengal,Business,Active
+CUST1313,Timothy Sarin,Salem,Tamil Nadu,Business,Active
+CUST1314,Jagvi Desai,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1315,Varsha Shere,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST1316,Jagrati Mody,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1317,Ikbal Gill,Kochi,Kerala,Standard,Active
+CUST1318,Avni Dey,Chennai,Tamil Nadu,Standard,Active
+CUST1319,Adya Bose,Chennai,Tamil Nadu,Business,Inactive
+CUST1320,Anirudh Tripathi,Chennai,Tamil Nadu,Premium,Active
+CUST1321,Nidhi Kala,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1322,Abha Zacharia,Salem,Tamil Nadu,Standard,Active
+CUST1323,Manthan Pau,Chennai,Tamil Nadu,Standard,Active
+CUST1324,Udant Mannan,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1325,Ucchal Thaker,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1326,Mekhala Patla,Bengaluru,Karnataka,Premium,Inactive
+CUST1327,William Gandhi,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1328,Sanaya Dutta,Madurai,Tamil Nadu,Premium,Active
+CUST1329,Madhav Sule,Hyderabad,Telangana,Business,Inactive
+CUST1330,Banjeet Kanda,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1331,Vincent Bhatnagar,Mysuru,Karnataka,Premium,Active
+CUST1332,Kala Kaur,Salem,Tamil Nadu,Business,Active
+CUST1333,Samuel Vasa,Coimbatore,Tamil Nadu,Business,Active
+CUST1334,Lipika Singh,Mumbai,Maharashtra,Premium,Active
+CUST1335,Chakradhar Baral,Hyderabad,Telangana,Standard,Active
+CUST1336,Harshil Verma,Salem,Tamil Nadu,Business,Inactive
+CUST1337,Adya Ghosh,Nashik,Maharashtra,Business,Active
+CUST1338,Kritika Pau,Hyderabad,Telangana,Business,Active
+CUST1339,Zansi Krishnamurthy,Kolkata,West Bengal,Business,Active
+CUST1340,Udant Varty,Mysuru,Karnataka,Business,Active
+CUST1341,Ira Pai,Kolkata,West Bengal,Premium,Active
+CUST1342,Vasatika Ahuja,Pune,Maharashtra,Business,Active
+CUST1343,Ria Gandhi,Coimbatore,Tamil Nadu,Premium,Active
+CUST1344,Faraj Varkey,Hyderabad,Telangana,Business,Active
+CUST1345,Siddharth Doctor,Nashik,Maharashtra,Business,Active
+CUST1346,Nakul Pathak,Kochi,Kerala,Standard,Active
+CUST1347,Victor Sachdeva,Coimbatore,Tamil Nadu,Standard,Active
+CUST1348,Ishaan Subramaniam,Pune,Maharashtra,Premium,Active
+CUST1349,Varenya Kade,Salem,Tamil Nadu,Standard,Active
+CUST1350,Nirja Bains,Mumbai,Maharashtra,Premium,Inactive
+CUST1351,Caleb Datta,Hyderabad,Telangana,Premium,Inactive
+CUST1352,Krish Vala,Kolkata,West Bengal,Premium,Active
+CUST1353,Manan Bhalla,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1354,Aarna Gole,Nashik,Maharashtra,Premium,Active
+CUST1355,Anirudh Mander,Hyderabad,Telangana,Premium,Active
+CUST1356,Tarak Sen,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1357,Vasatika Garde,Chennai,Tamil Nadu,Premium,Active
+CUST1358,Nirja Dhar,Bengaluru,Karnataka,Standard,Active
+CUST1359,Yasti Lalla,Hyderabad,Telangana,Premium,Active
+CUST1360,Hema Setty,Salem,Tamil Nadu,Standard,Active
+CUST1361,Victor Radhakrishnan,Pune,Maharashtra,Business,Inactive
+CUST1362,Kevin Chopra,Salem,Tamil Nadu,Standard,Inactive
+CUST1363,Samaksh Virk,Mysuru,Karnataka,Standard,Inactive
+CUST1364,Mason Char,Hyderabad,Telangana,Standard,Active
+CUST1365,Vamakshi Barad,Pune,Maharashtra,Standard,Active
+CUST1366,Girik Subramaniam,Mumbai,Maharashtra,Business,Active
+CUST1367,Aarav Sankar,Mysuru,Karnataka,Premium,Active
+CUST1368,Kamala Bassi,Coimbatore,Tamil Nadu,Standard,Active
+CUST1369,Veer Subramaniam,Mumbai,Maharashtra,Business,Inactive
+CUST1370,Inaya Chaudhari,Hyderabad,Telangana,Standard,Active
+CUST1371,Krish Kumar,Chennai,Tamil Nadu,Premium,Active
+CUST1372,Viraj Chacko,Madurai,Tamil Nadu,Business,Inactive
+CUST1373,Nilima Kurian,Coimbatore,Tamil Nadu,Standard,Active
+CUST1374,Abdul Amble,coimbatore,Tamil Nadu,Standard,Active
+CUST1375,Zinal Amble,Bengaluru,Karnataka,Premium,Active
+CUST1376,Samesh Mutti,Madurai,Tamil Nadu,Premium,Inactive
+CUST1377,Janaki Chhabra,Kochi,Kerala,Business,Active
+CUST1378,Pooja Kulkarni,Bengaluru,Karnataka,Business,Inactive
+CUST1379,Pallavi Pau,Hyderabad,Telangana,Premium,Inactive
+CUST1380,Mekhala Jani,Pune,Maharashtra,Standard,Inactive
+CUST1381,Vasudha Gola,Chennai,Tamil Nadu,Premium,Inactive
+CUST1382,Veda Kulkarni,Kochi,Kerala,Premium,Active
+CUST1383,Hemangini Rao,Nashik,Maharashtra,Premium,Active
+CUST1384,Jagat Karpe,Hyderabad,Telangana,Business,Active
+CUST1385,Neel Chaudhry,Bengaluru,Karnataka,Business,Active
+CUST1386,Yashoda Rattan,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1387,Charles Dyal,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1388,Abdul Chand,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1389,Urishilla Saran,Nashik,Maharashtra,Business,Inactive
+CUST1390,Devansh Lall,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1391,Kamala Buch,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST1392,Leena Rattan,Madurai,Tamil Nadu,Standard,Inactive
+CUST1393,Dakshesh Gill,Kolkata,West Bengal,Business,Active
+CUST1394,Reva Anne,Vijayawada,Andhra Pradesh,Business,Active
+CUST1395,Zarna Mangal,Bengaluru,Karnataka,Premium,Active
+CUST1396,Bahadurjit Uppal,Hyderabad,Telangana,Standard,Active
+CUST1397,Omkaar Banik,Hyderabad,Telangana,Standard,Inactive
+CUST1398,William Acharya,Bengaluru,Karnataka,Business,Inactive
+CUST1399,Gabriel Majumdar,Coimbatore,Tamil Nadu,Business,Active
+CUST1400,Ira Rana,Nashik,Maharashtra,Business,Active
+CUST1401,Sai Vasa,Pune,Maharashtra,Business,Active
+CUST1402,Ekapad Chana,Bengaluru,Karnataka,Premium,Inactive
+CUST1403,Ijaya Palan,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1404,Upkaar Hayer,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1405,Netra Agrawal,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1406,Parth Ray,Bengaluru,Karnataka,Premium,Active
+CUST1407,Elijah Thakur,Hyderabad,Telangana,Business,Active
+CUST1408,Harini Dada,Kolkata,West Bengal,Standard,Active
+CUST1409,Zashil Savant,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1410,Veda Kohli,Kolkata,West Bengal,Premium,Active
+CUST1411,Tara Sharma,Mumbai,Maharashtra,Business,Inactive
+CUST1412,Vasatika Dada,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST1413,Ekansh Raja,Chennai,Tamil Nadu,Standard,Active
+CUST1414,Victor Mutti,Mumbai,Maharashtra,Standard,Inactive
+CUST1415,Ira Varty,Chennai,Tamil Nadu,Premium,Active
+CUST1416,Adya Kothari,Salem,Tamil Nadu,Standard,Active
+CUST1417,Girik Rastogi,Salem,Tamil Nadu,Premium,Active
+CUST1418,Faqid Gokhale,Kolkata,West Bengal,Premium,Active
+CUST1419,Dipta Pandya,Pune,Maharashtra,Premium,Active
+CUST1420,Amruta Goswami,Madurai,Tamil Nadu,Premium,Active
+CUST1421,Wishi Iyengar,Nashik,Maharashtra,Standard,Active
+CUST1422,Wyatt Lanka,Madurai,Tamil Nadu,Business,Inactive
+CUST1423,Veer Jain,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1424,Ishani Dugal,Salem,Tamil Nadu,Premium,Active
+CUST1425,Jagdish Brar,Coimbatore,Tamil Nadu,Premium,Active
+CUST1426,Abeer Basak,Kolkata,West Bengal,Premium,Inactive
+CUST1427,Kamya Murty,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1428,Anvi Swaminathan,Nashik,Maharashtra,Standard,Active
+CUST1429,Yasti Mammen,Bengaluru,Karnataka,Premium,Inactive
+CUST1430,Tristan Dave,Hyderabad,Telangana,Business,Active
+CUST1431,Pallavi Sridhar,Hyderabad,Telangana,Standard,Active
+CUST1432,Yadavi Palan,Nashik,Maharashtra,Standard,Active
+CUST1433,Owen Shankar,Chennai,Tamil Nadu,Premium,Active
+CUST1434,Zarna Sharma,Kolkata,West Bengal,Premium,Active
+CUST1435,Abhiram Arora,Madurai,Tamil Nadu,Premium,Inactive
+CUST1436,Ladli Chaudhuri,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1437,Janaki Lad,Mysuru,Karnataka,Standard,Active
+CUST1438,Adya Khalsa,Pune,Maharashtra,Premium,Inactive
+CUST1439,Urishilla Oza,Hyderabad,Telangana,Premium,Active
+CUST1440,Qarin Tara,Pune,Maharashtra,Standard,Active
+CUST1441,Shivansh Saini,Salem,Tamil Nadu,Business,Active
+CUST1442,Janya Rattan,Madurai,Tamil Nadu,Standard,Inactive
+CUST1443,Shravya Gole,Chennai,Tamil Nadu,Standard,Active
+CUST1444,Veer Chaudhry,Nashik,Maharashtra,Standard,Active
+CUST1445,Warinder Sankaran,Mysuru,Karnataka,Standard,Active
+CUST1446,Rohan Dhingra,Mysuru,Karnataka,Premium,Active
+CUST1447,Urvashi Andra,Nashik,Maharashtra,Business,Active
+CUST1448,Oviya Tata,Kochi,Kerala,Standard,Active
+CUST1449,Zansi Walla,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1450,Vidhi Mital,Madurai,Tamil Nadu,Business,Active
+CUST1451,Champak Rao,Salem,Tamil Nadu,Business,Active
+CUST1452,Nihal Bhasin,Mumbai,Maharashtra,Premium,Active
+CUST1453,Aachal Soni,Kochi,Kerala,Premium,Active
+CUST1454,Shivani Natt,Kochi,Kerala,Premium,Inactive
+CUST1455,Jalsa Parsa,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1456,Hemangini Bahri,Vijayawada,Andhra Pradesh,Business,Active
+CUST1457,Jairaj Panchal,Vijayawada,Andhra Pradesh,Business,Active
+CUST1458,Owen Mane,madurai,Tamil Nadu,Business,Active
+CUST1459,Ekta Uppal,Kochi,Kerala,Standard,Active
+CUST1460,Sanya Brar,Madurai,Tamil Nadu,Business,Active
+CUST1461,Bhavini Sheth,Nashik,Maharashtra,Premium,Active
+CUST1462,Oliver Nazareth,Mysuru,Karnataka,Business,Active
+CUST1463,Nidhi Bora,Coimbatore,Tamil Nadu,Standard,Active
+CUST1464,Neel Oza,Kolkata,West Bengal,Standard,Inactive
+CUST1465,Dipta Nadig,Mysuru,Karnataka,Premium,Active
+CUST1466,Amara Rana,Salem,Tamil Nadu,Standard,Inactive
+CUST1467,Sai Patil,Madurai,Tamil Nadu,Premium,Inactive
+CUST1468,Odika Ganesh,Mumbai,Maharashtra,Premium,Active
+CUST1469,Arin Dass,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1470,Zayan Buch,Pune,Maharashtra,Business,Active
+CUST1471,Ojas Ranganathan,Mysuru,Karnataka,Business,Inactive
+CUST1472,Girish Bhatt,Kolkata,West Bengal,Business,Active
+CUST1473,Chatura Bal,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1474,Fiyaz Chawla,Nashik,Maharashtra,Business,Active
+CUST1475,Nachiket Chad,Madurai,Tamil Nadu,Standard,Inactive
+CUST1476,Dayamai Karnik,Hyderabad,Telangana,Business,Active
+CUST1477,Bhanumati Savant,Salem,Tamil Nadu,Business,Active
+CUST1478,Karan Vyas,Mysuru,Karnataka,Premium,Active
+CUST1479,Ayush Banerjee,Coimbatore,Tamil Nadu,Premium,Active
+CUST1480,Eshana Soni,Salem,Tamil Nadu,Premium,Inactive
+CUST1481,Anita Saxena,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1482,Peter Shan,Madurai,Tamil Nadu,Business,Active
+CUST1483,Dayita Palan,Kochi,Kerala,Standard,Inactive
+CUST1484,Utkarsh Chakraborty,Chennai,Tamil Nadu,Business,Active
+CUST1485,Darika Pau,Kochi,Kerala,Standard,Active
+CUST1486,Abha Dugal,Nashik,Maharashtra,Business,Inactive
+CUST1487,Advaith Acharya,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1488,Hemangini Mangat,Chennai,Tamil Nadu,Standard,Active
+CUST1489,Abhiram Swamy,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST1490,Chandani Andra,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1491,Brinda Kashyap,Pune,Maharashtra,Business,Active
+CUST1492,Kashvi Gulati,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1493,Rajeshri Rana,Pune,Maharashtra,Business,Active
+CUST1494,Nihal Ramakrishnan,Pune,Maharashtra,Business,Active
+CUST1495,Thomas Lall,Chennai,Tamil Nadu,Premium,Active
+CUST1496,Pahal Khatri,Coimbatore,Tamil Nadu,Standard,Active
+CUST1497,Bhavani Wali,Kochi,Kerala,Standard,Active
+CUST1498,Nitara Guha,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1499,Qabil Deshpande,Mumbai,Maharashtra,Premium,Inactive
+CUST1500,Indrajit Shah,Mumbai,Maharashtra,Standard,Active
+CUST1501,Anita Swamy,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1502,Ekani Bahl,Chennai,Tamil Nadu,Premium,Active
+CUST1503,Chandran Warrior,Chennai,Tamil Nadu,Business,Active
+CUST1504,Quincy Chaudry,Mysuru,Karnataka,Business,Active
+CUST1505,Amruta Dass,Coimbatore,Tamil Nadu,Business,Active
+CUST1506,Abhiram Kaul,Madurai,Tamil Nadu,Standard,Active
+CUST1507,Matthew Aurora,Mumbai,Maharashtra,Business,Active
+CUST1508,Teerth Oommen,Hyderabad,Telangana,Standard,Active
+CUST1509,Devika Tara,Madurai,Tamil Nadu,Premium,Inactive
+CUST1510,Ubika Balay,Salem,Tamil Nadu,Business,Active
+CUST1511,Faris Dhingra,Mumbai,Maharashtra,Business,Active
+CUST1512,Amaira Ramanathan,Pune,Maharashtra,Premium,Active
+CUST1513,Upma Golla,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1514,Zashil Raj,Kolkata,West Bengal,Premium,Active
+CUST1515,Jairaj Kothari,Coimbatore,Tamil Nadu,Standard,Active
+CUST1516,Saanvi Kota,Coimbatore,Tamil Nadu,Business,Active
+CUST1517,Rushil Sharma,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1518,Sathvik Solanki,Bengaluru,Karnataka,Premium,Active
+CUST1519,Devika Naidu,Mumbai,Maharashtra,Business,Active
+CUST1520,Brijesh Verma,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1521,Zehaan Srivastava,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1522,Rushil Patel,Mysuru,Karnataka,Standard,Active
+CUST1523,Tejas Chowdhury,Salem,Tamil Nadu,Standard,Inactive
+CUST1524,Radha Nair,Kochi,Kerala,Premium,Active
+CUST1525,Oliver Majumdar,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1526,Meghana Kibe,Salem,Tamil Nadu,Standard,Active
+CUST1527,Brijesh Soman,Salem,Tamil Nadu,Business,Active
+CUST1528,Kamya Chakraborty,Madurai,Tamil Nadu,Premium,Active
+CUST1529,Nakul Tata,Mysuru,Karnataka,Business,Active
+CUST1530,Hamsini Bhasin,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1531,Ishani Dube,Mumbai,Maharashtra,Standard,Active
+CUST1532,Jeremiah Sura,Madurai,Tamil Nadu,Standard,Active
+CUST1533,Edhitha Palan,Kochi,Kerala,Standard,Active
+CUST1534,Reyansh Bail,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1535,Ishita Desai,Pune,Maharashtra,Business,Inactive
+CUST1536,Balveer Sundaram,Madurai,Tamil Nadu,Standard,Active
+CUST1537,Chaitaly Suri,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1538,Rachit Pall,Salem,Tamil Nadu,Premium,Active
+CUST1539,Upadhriti Maharaj,Coimbatore,Tamil Nadu,Standard,Active
+CUST1540,Ekapad Wali,Mysuru,Karnataka,Standard,Active
+CUST1541,Shivani Merchant,Nashik,Maharashtra,Business,Inactive
+CUST1542,Jeevika Setty,Hyderabad,Telangana,Standard,Active
+CUST1543,Yashawini Raghavan,Salem,Tamil Nadu,Business,Active
+CUST1544,Anirudh Patla,Kolkata,West Bengal,Premium,Active
+CUST1545,Ekani Bhatnagar,Kochi,Kerala,Premium,Active
+CUST1546,Ranveer Viswanathan,Kochi,Kerala,Standard,Active
+CUST1547,Mitesh Mandal,Nashik,Maharashtra,Standard,Active
+CUST1548,Nimrat Nagy,Nashik,Maharashtra,Premium,Active
+CUST1549,Gopal Virk,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1550,Caleb Dayal,Mumbai,Maharashtra,Business,Active
+CUST1551,Azad Jaggi,Bengaluru,Karnataka,Standard,Active
+CUST1552,Vedika Handa,Nashik,Maharashtra,Standard,Active
+CUST1553,Azad Rama,Pune,Maharashtra,Premium,Inactive
+CUST1554,Aahana Bawa,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1555,Timothy Bobal,Pune,Maharashtra,Premium,Active
+CUST1556,Sathvik Swamy,Bengaluru,Karnataka,Premium,Inactive
+CUST1557,Upadhriti Bhat,Kochi,Kerala,Premium,Inactive
+CUST1558,Ojasvi Pillay,Salem,Tamil Nadu,Premium,Inactive
+CUST1559,Amaira Wadhwa,Mysuru,Karnataka,Standard,Active
+CUST1560,Ekavir Modi,Hyderabad,Telangana,Business,Active
+CUST1561,Tarak Venkataraman,Nashik,Maharashtra,Standard,Active
+CUST1562,Harrison Kashyap,Mumbai,Maharashtra,Business,Inactive
+CUST1563,Ranveer Hans,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1564,Praneel Sagar,Hyderabad,Telangana,Business,Inactive
+CUST1565,Ishita Shanker,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1566,Hemang Ganesan,Nashik,Maharashtra,Business,Active
+CUST1567,Neelima Thaman,Kochi,Kerala,Premium,Active
+CUST1568,Nakul Walla,Kolkata,West Bengal,Premium,Inactive
+CUST1569,Indira Murty,Chennai,Tamil Nadu,Standard,Active
+CUST1570,Kamya Sachar,Mysuru,Karnataka,Premium,Active
+CUST1571,Ekiya Khosla,Salem,Tamil Nadu,Business,Active
+CUST1572,Keya Kumar,Mysuru,Karnataka,Premium,Active
+CUST1573,Sneha Sem,Mumbai,Maharashtra,Business,Active
+CUST1574,Aadi Banerjee,Kochi,Kerala,Premium,Inactive
+CUST1575,Amol Vasa,Hyderabad,Telangana,Business,Active
+CUST1576,Chasmum Ahuja,Chennai,Tamil Nadu,Business,Active
+CUST1577,Tristan Kala,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1578,Anthony Majumdar,Nashik,Maharashtra,Standard,Active
+CUST1579,Girindra Barad,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1580,Ishani Dugal,Coimbatore,Tamil Nadu,Premium,Active
+CUST1581,Alka Peri,Chennai,Tamil Nadu,Business,Active
+CUST1582,Viraj Kunda,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1583,George Ratta,Mumbai,Maharashtra,Standard,Active
+CUST1584,Faras Nair,Kochi,Kerala,Premium,Inactive
+CUST1585,Oscar Sura,Bengaluru,Karnataka,Premium,Inactive
+CUST1586,Charita Barad,Pune,Maharashtra,Standard,Inactive
+CUST1587,Farhan Bhalla,Salem,Tamil Nadu,Business,Active
+CUST1588,Ijaya Saraf,Bengaluru,Karnataka,Premium,Inactive
+CUST1589,Jai Karan,Chennai,Tamil Nadu,Business,Active
+CUST1590,Lavanya Bhagat,Nashik,Maharashtra,Standard,Active
+CUST1591,Benjamin Nagar,Kolkata,West Bengal,Business,Active
+CUST1592,Eta Thakkar,Mysuru,Karnataka,Business,Inactive
+CUST1593,Michael Bedi,Pune,Maharashtra,Premium,Active
+CUST1594,Sanaya Thaman,Nashik,Maharashtra,Standard,Inactive
+CUST1595,Tristan Sankaran,Pune,Maharashtra,Business,Inactive
+CUST1596,Meera Divan,Salem,Tamil Nadu,Business,Active
+CUST1597,Gayathri Butala,Salem,Tamil Nadu,Premium,Active
+CUST1598,Chandran Rastogi,Bengaluru,Karnataka,Business,Active
+CUST1599,Frederick Rastogi,Chennai,Tamil Nadu,Premium,Active
+CUST1600,Kalpit Deshmukh,Nashik,Maharashtra,Business,Active
+CUST1601,Rudra Sura,Vijayawada,Andhra Pradesh,Business,Active
+CUST1602,Rohan Viswanathan,Salem,Tamil Nadu,Standard,Active
+CUST1603,Xavier Bora,Kolkata,West Bengal,Standard,Inactive
+CUST1604,Qushi Naik,Hyderabad,Telangana,Business,Inactive
+CUST1605,Isaiah Sachdev,Bengaluru,Karnataka,Premium,Active
+CUST1606,Jasmit Pall,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST1607,Ekani Padmanabhan,Coimbatore,Tamil Nadu,Premium,Active
+CUST1608,Dalaja Gara,Salem,Tamil Nadu,Premium,Active
+CUST1609,Riya Dhingra,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1610,Chaitanya Kaur,Kolkata,West Bengal,Business,Active
+CUST1611,Kashvi Dugal,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1612,Isaiah Bhagat,Mysuru,Karnataka,Business,Active
+CUST1613,Manbir Mani,Kochi,Kerala,Standard,Active
+CUST1614,Hemal Choudhry,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1615,Shivani Sinha,Kolkata,West Bengal,Business,Active
+CUST1616,Garima Kadakia,Salem,Tamil Nadu,Business,Active
+CUST1617,Samar Virk,Salem,Tamil Nadu,Standard,Active
+CUST1618,Vasudha Dhaliwal,Mumbai,Maharashtra,Business,Active
+CUST1619,Krisha Vyas,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1620,Aadhya Garde,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1621,Bhanumati Iyer,Madurai,Tamil Nadu,Premium,Active
+CUST1622,Chatresh Shroff,Madurai,Tamil Nadu,Premium,Active
+CUST1623,Ekalinga Rama,Hyderabad,Telangana,Premium,Active
+CUST1624,Jagvi Chokshi,Nashik,Maharashtra,Business,Active
+CUST1625,Brinda Raju,Salem,Tamil Nadu,Business,Active
+CUST1626,Lajita Trivedi,Coimbatore,Tamil Nadu,Standard,Active
+CUST1627,Diya Sundaram,Mysuru,Karnataka,Premium,Active
+CUST1628,Quincy Issac,Salem,Tamil Nadu,Business,Active
+CUST1629,Anthony Baral,Vijayawada,Andhra Pradesh,Business,Active
+CUST1630,Dalaja Nath,Salem,Tamil Nadu,Standard,Active
+CUST1631,Maya Dugar,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1632,Idika Pandey,Mysuru,Karnataka,Business,Active
+CUST1633,Chasmum Keer,Kolkata,West Bengal,Premium,Active
+CUST1634,David Kurian,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1635,Ayushman Mammen,Mumbai,Maharashtra,Standard,Active
+CUST1636,Max Om,Mysuru,Karnataka,Standard,Active
+CUST1637,Laksh Chahal,Madurai,Tamil Nadu,Standard,Active
+CUST1638,Utkarsh Sahni,Mysuru,Karnataka,Premium,Active
+CUST1639,Michael Sandhu,Nashik,Maharashtra,Standard,Active
+CUST1640,Forum Sen,Coimbatore,Tamil Nadu,Business,Active
+CUST1641,Samuel Devi,Pune,Maharashtra,Premium,Active
+CUST1642,Lakshit More,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1643,Qushi Dhillon,Salem,Tamil Nadu,Business,Inactive
+CUST1644,Eesha Bir,Coimbatore,Tamil Nadu,Business,Active
+CUST1645,Qarin Nadkarni,Salem,Tamil Nadu,Business,Active
+CUST1646,Ayushman Nagar,Kolkata,West Bengal,Premium,Inactive
+CUST1647,Nisha Mitter,Mumbai,Maharashtra,Business,Active
+CUST1648,Anusha Doshi,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1649,Hredhaan Deep,Salem,Tamil Nadu,Premium,Active
+CUST1650,Atharv Loke,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1651,Vincent Kashyap,Kolkata,West Bengal,Business,Active
+CUST1652,Jagrati Buch,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1653,Krish Thakkar,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1654,Kashvi Gour,Madurai,Tamil Nadu,Premium,Active
+CUST1655,Vyanjana Som,Mysuru,Karnataka,Standard,Active
+CUST1656,Nihal Hans,Hyderabad,Telangana,Business,Active
+CUST1657,Bachittar Rege,Mumbai,Maharashtra,Standard,Inactive
+CUST1658,Anamika Sachar,Madurai,Tamil Nadu,Business,Active
+CUST1659,Samaksh Jayaraman,Hyderabad,Telangana,Standard,Active
+CUST1660,Peter Sarna,Chennai,Tamil Nadu,Premium,Inactive
+CUST1661,Ekta Shankar,Salem,Tamil Nadu,Standard,Active
+CUST1662,Prisha Ravel,Hyderabad,Telangana,Premium,Active
+CUST1663,Lajita Munshi,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1664,Balvan Verma,Kochi,Kerala,Business,Active
+CUST1665,Siya Shan,Bengaluru,Karnataka,Business,Active
+CUST1666,Yatan Venkataraman,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1667,Balveer Ram,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1668,Ranveer Manne,Mumbai,Maharashtra,Business,Inactive
+CUST1669,Mitali Modi,Bengaluru,Karnataka,Premium,Active
+CUST1670,Triya Ganesan,Kolkata,West Bengal,Standard,Active
+CUST1671,Chaitaly Bhagat,Pune,Maharashtra,Premium,Active
+CUST1672,Ubika Seth,Coimbatore,Tamil Nadu,Business,Inactive
+CUST1673,Xiti Chowdhury,Vijayawada,Andhra Pradesh,Business,Active
+CUST1674,Krishna Ramaswamy,Bengaluru,Karnataka,Business,Active
+CUST1675,Ekiya Seshadri,Kochi,Kerala,Standard,Active
+CUST1676,Praneel Setty,Chennai,Tamil Nadu,Business,Active
+CUST1677,Suhani Chana,Mumbai,Maharashtra,Standard,Inactive
+CUST1678,Ekiya Gade,Madurai,Tamil Nadu,Business,Active
+CUST1679,Gavin Comar,Chennai,Tamil Nadu,Business,Active
+CUST1680,Janani Chada,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1681,Yasti Dutta,Kochi,Kerala,Standard,Active
+CUST1682,Lajita Bassi,Kolkata,West Bengal,Business,Active
+CUST1683,Gautami Doctor,Pune,Maharashtra,Business,Active
+CUST1684,Maanav Gola,Bengaluru,Karnataka,Standard,Active
+CUST1685,Oni Morar,Mysuru,Karnataka,Standard,Active
+CUST1686,Sanaya Mani,Mysuru,Karnataka,Business,Active
+CUST1687,Jacob Deep,Nashik,Maharashtra,Business,Inactive
+CUST1688,Aarush Kulkarni,Nashik,Maharashtra,Standard,Active
+CUST1689,Tara Tank,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1690,Abdul Tak,Mysuru,Karnataka,Standard,Active
+CUST1691,Teerth Soni,Chennai,Tamil Nadu,Premium,Active
+CUST1692,Nimrat Sathe,Chennai,Tamil Nadu,Standard,Active
+CUST1693,Abeer Konda,Chennai,Tamil Nadu,Standard,Active
+CUST1694,Sarthak Bawa,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1695,Manbir Bhakta,Kolkata,West Bengal,Premium,Inactive
+CUST1696,Balhaar Dhillon,Mumbai,Maharashtra,Premium,Inactive
+CUST1697,Chanchal Narula,Mumbai,Maharashtra,Premium,Active
+CUST1698,Chandran Chopra,Mumbai,Maharashtra,Business,Active
+CUST1699,Pranav Edwin,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1700,Peter Shah,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1701,Balendra Chander,Salem,Tamil Nadu,Standard,Active
+CUST1702,Ekantika Pillay,KOLKATA,West Bengal,Business,Active
+CUST1703,Ekansh Sane,Madurai,Tamil Nadu,Business,Active
+CUST1704,Brinda Sinha,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1705,Jairaj Maharaj,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1706,Odika Vohra,Mumbai,Maharashtra,Business,Active
+CUST1707,Shaurya Bhardwaj,Kochi,Kerala,Standard,Active
+CUST1708,Gagan Sule,Hyderabad,Telangana,Business,Inactive
+CUST1709,Prisha Nadig,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1710,Irya Dayal,Mysuru,Karnataka,Standard,Active
+CUST1711,Zinal Tank,Mysuru,Karnataka,Business,Active
+CUST1712,Pranit Kaul,Chennai,Tamil Nadu,Business,Active
+CUST1713,Rishi Agarwal,Bengaluru,Karnataka,Standard,Active
+CUST1714,Arjun Shroff,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST1715,Sarthak Sachdeva,Vijayawada,Andhra Pradesh,Business,Active
+CUST1716,Chakradev Nath,Madurai,Tamil Nadu,Standard,Active
+CUST1717,Simon Apte,Coimbatore,Tamil Nadu,Premium,Active
+CUST1718,Baghyawati Kumar,Hyderabad,Telangana,Standard,Active
+CUST1719,Darika Mital,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1720,Abeer Comar,Bengaluru,Karnataka,Standard,Active
+CUST1721,Harita Randhawa,Nashik,Maharashtra,Business,Inactive
+CUST1722,Parth Hari,Mysuru,Karnataka,Business,Active
+CUST1723,Hamsini Srinivas,Madurai,Tamil Nadu,Business,Active
+CUST1724,Balendra Deshpande,Madurai,Tamil Nadu,Standard,Active
+CUST1725,Nachiket Sharma,Salem,Tamil Nadu,Business,Inactive
+CUST1726,Turvi Sachdev,Pune,Maharashtra,Premium,Active
+CUST1727,Chandani Mutti,Mysuru,Karnataka,Business,Active
+CUST1728,Sathvik Narula,Bengaluru,Karnataka,Premium,Active
+CUST1729,Dominic Dixit,Kolkata,West Bengal,Standard,Active
+CUST1730,Azaan Nori,Kochi,Kerala,Premium,Active
+CUST1731,Noah Ramachandran,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1732,Jackson Morar,Salem,Tamil Nadu,Business,Active
+CUST1733,Azad Magar,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1734,Gabriel Taneja,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1735,Kamya Seth,Hyderabad,Telangana,Standard,Active
+CUST1736,Tarak Vohra,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST1737,Parth Choudhury,Madurai,Tamil Nadu,Premium,Active
+CUST1738,Baljiwan Jaggi,Mysuru,Karnataka,Business,Active
+CUST1739,Sachi Toor,Kolkata,West Bengal,Premium,Inactive
+CUST1740,Vasudha Tella,Kochi,Kerala,Premium,Active
+CUST1741,Ranveer Oak,Kochi,Kerala,Business,Active
+CUST1742,Dayita Narang,Hyderabad,Telangana,Business,Active
+CUST1743,Guneet Varty,Nashik,Maharashtra,Premium,Active
+CUST1744,Samesh Bansal,Kolkata,West Bengal,Business,Active
+CUST1745,Lila Vig,Madurai,Tamil Nadu,Business,Active
+CUST1746,Aayush Mukhopadhyay,Salem,Tamil Nadu,Standard,Active
+CUST1747,Gagan Nath,Nashik,Maharashtra,Business,Active
+CUST1748,Chakradhar Chauhan,Nashik,Maharashtra,Business,Inactive
+CUST1749,Arin Muni,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1750,Ekani Iyer,Kolkata,West Bengal,Standard,Active
+CUST1751,Bhavini Malhotra,Vijayawada,Andhra Pradesh,Business,Inactive
+CUST1752,Ridhi Dalal,Mysuru,Karnataka,Standard,Active
+CUST1753,Manthan Dugar,Mumbai,Maharashtra,Standard,Active
+CUST1754,Ishwar Aurora,Hyderabad,Telangana,Premium,Active
+CUST1755,Samuel Palla,Mumbai,Maharashtra,Premium,Active
+CUST1756,Anika Dhaliwal,Mysuru,Karnataka,Standard,Active
+CUST1757,Yash Garg,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1758,Deepa Nigam,Kochi,Kerala,Standard,Active
+CUST1759,Chandresh De,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1760,Urishilla Bedi,Salem,Tamil Nadu,Business,Inactive
+CUST1761,Leela Bhagat,Pune,Maharashtra,Standard,Active
+CUST1762,Pooja Ramanathan,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1763,Sanaya Parekh,Bengaluru,Karnataka,Premium,Active
+CUST1764,Gaurangi Hora,Coimbatore,Tamil Nadu,Standard,Active
+CUST1765,Udyati Deep,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1766,Upadhriti Chatterjee,Kochi,Kerala,Premium,Active
+CUST1767,Dayita Shroff,Chennai,Tamil Nadu,Business,Active
+CUST1768,Vincent Kapur,Bengaluru,Karnataka,Business,Active
+CUST1769,Aarna Patla,Nashik,Maharashtra,Business,Active
+CUST1770,Qadim Narayanan,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1771,Sudiksha Sura,Mumbai,Maharashtra,Business,Inactive
+CUST1772,Dhruv Soman,Pune,Maharashtra,Business,Active
+CUST1773,Indali Srinivas,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1774,Onkar Mandal,Kolkata,West Bengal,Standard,Inactive
+CUST1775,Joshua Trivedi,Pune,Maharashtra,Premium,Inactive
+CUST1776,Nidra Chhabra,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1777,Ekavir Mittal,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1778,Nandini Sachdev,Hyderabad,Telangana,Standard,Active
+CUST1779,Yagnesh Dutt,Vijayawada,Andhra Pradesh,Business,Active
+CUST1780,Leena Bhatti,Coimbatore,Tamil Nadu,Standard,Active
+CUST1781,Sathvik Sankar,Hyderabad,Telangana,Premium,Active
+CUST1782,Hema Keer,Mysuru,Karnataka,Standard,Inactive
+CUST1783,Faras Sur,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1784,Ubika Nanda,Kochi,Kerala,Business,Inactive
+CUST1785,Sai Goda,Kochi,Kerala,Standard,Active
+CUST1786,Nidra Boase,Mysuru,Karnataka,Premium,Active
+CUST1787,Ladli Narang,Coimbatore,Tamil Nadu,Standard,Active
+CUST1788,Darsh Chana,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1789,Liam Acharya,Hyderabad,Telangana,Business,Active
+CUST1790,Manthan Sethi,Kolkata,West Bengal,Business,Active
+CUST1791,Madhavi Sekhon,Chennai,Tamil Nadu,Standard,Active
+CUST1792,Samesh Nadig,Kolkata,West Bengal,Standard,Inactive
+CUST1793,Daksha Saran,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1794,Gaurav Anand,Kolkata,West Bengal,Business,Active
+CUST1795,Joshua Menon,Bengaluru,Karnataka,Standard,Inactive
+CUST1796,Kala Bera,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1797,Jagrati Choudhary,Hyderabad,Telangana,Standard,Inactive
+CUST1798,Azaan Keer,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1799,Meera Nadkarni,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1800,Nidra Raj,Hyderabad,Telangana,Business,Active
+CUST1801,Siddharth Ghose,Kolkata,West Bengal,Premium,Active
+CUST1802,Liam Guha,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST1803,Jagvi Sahni,Hyderabad,Telangana,Standard,Active
+CUST1804,Bhavya Dass,Coimbatore,Tamil Nadu,Business,Inactive
+CUST1805,Advay Bora,Nashik,Maharashtra,Standard,Active
+CUST1806,Maanas Sur,Hyderabad,Telangana,Premium,Active
+CUST1807,Laban Chad,Kolkata,West Bengal,Business,Active
+CUST1808,Ojasvi Shah,Bengaluru,Karnataka,Premium,Active
+CUST1809,Pranit Sha,Kolkata,West Bengal,Business,Active
+CUST1810,Shivani Rajagopalan,Kolkata,West Bengal,Business,Inactive
+CUST1811,Upkaar Grewal,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1812,Abhimanyu Tara,Nashik,Maharashtra,Standard,Inactive
+CUST1813,Yachana Luthra,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST1814,Jeevika Bandi,Pune,Maharashtra,Business,Active
+CUST1815,Vasudha Pillay,Mumbai,Maharashtra,Standard,Active
+CUST1816,Vasatika Buch,Kochi,Kerala,Standard,Active
+CUST1817,Ati Shroff,Madurai,Tamil Nadu,Business,Inactive
+CUST1818,Gaurang Korpal,Madurai,Tamil Nadu,Standard,Active
+CUST1819,Faras Zacharia,Salem,Tamil Nadu,Business,Active
+CUST1820,Chatresh Oza,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1821,Upasna Setty,Vijayawada,Andhra Pradesh,Standard,Inactive
+CUST1822,Garima Sama,Mysuru,Karnataka,Standard,Active
+CUST1823,Chaitaly Mann,Mumbai,Maharashtra,Premium,Active
+CUST1824,Balendra Modi,Hyderabad,Telangana,Premium,Active
+CUST1825,Darsh Solanki,Madurai,Tamil Nadu,Business,Inactive
+CUST1826,Charan Manne,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1827,Bhavini Sundaram,Mysuru,Karnataka,Premium,Active
+CUST1828,Jonathan Tiwari,Mumbai,Maharashtra,Business,Inactive
+CUST1829,Arunima Krishnan,Hyderabad,Telangana,Premium,Inactive
+CUST1830,Avni Maharaj,Madurai,Tamil Nadu,Premium,Active
+CUST1831,Akshay Choudhury,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1832,Matthew Sekhon,Salem,Tamil Nadu,Standard,Active
+CUST1833,Parth Lal,Salem,Tamil Nadu,Standard,Inactive
+CUST1834,Vedhika Golla,Tiruchirappalli,Tamil Nadu,Business,Active
+CUST1835,Hemal Chad,Bengaluru,Karnataka,Standard,Inactive
+CUST1836,Mitesh Tandon,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1837,Leela Khanna,Hyderabad,Telangana,Premium,Active
+CUST1838,Oliver Kade,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1839,Chatura Lalla,Kochi,Kerala,Business,Inactive
+CUST1840,Charles Ganesh,Bengaluru,Karnataka,Standard,Active
+CUST1841,Mohini Soni,Coimbatore,Tamil Nadu,Premium,Active
+CUST1842,Vamakshi Walia,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST1843,Ladli Ramakrishnan,Kolkata,West Bengal,Premium,Active
+CUST1844,Adweta Dhillon,Salem,Tamil Nadu,Business,Active
+CUST1845,Advik Mani,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1846,Lavanya Mutti,Kochi,Kerala,Standard,Active
+CUST1847,Gunbir Wali,Nashik,Maharashtra,Business,Active
+CUST1848,Rachana Mahajan,Coimbatore,Tamil Nadu,Standard,Active
+CUST1849,Anamika Loke,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1850,Aadhya Raman,Pune,Maharashtra,Standard,Active
+CUST1851,Wyatt Hayer,Hyderabad,Telangana,Standard,Active
+CUST1852,Pranit Munshi,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1853,Abhiram Bir,Mysuru,Karnataka,Premium,Inactive
+CUST1854,Nisha Chaudhari,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1855,Sanaya Panchal,Salem,Tamil Nadu,Business,Active
+CUST1856,Bhanumati Krishnamurthy,Kolkata,West Bengal,Standard,Active
+CUST1857,Bahadurjit Bajwa,Salem,Tamil Nadu,Business,Active
+CUST1858,Dakshesh Kalla,Pune,Maharashtra,Premium,Active
+CUST1859,Jagdish Chadha,Visakhapatnam,Andhra Pradesh,Standard,Inactive
+CUST1860,Keya Goyal,Kolkata,West Bengal,Premium,Active
+CUST1861,Qarin Kulkarni,Madurai,Tamil Nadu,Standard,Inactive
+CUST1862,Unni Borra,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1863,Aradhana Sane,VIJAYAWADA,Andhra Pradesh,Premium,Active
+CUST1864,Aarini Edwin,Bengaluru,Karnataka,Business,Active
+CUST1865,Aradhana Bhatia,Kolkata,West Bengal,Business,Active
+CUST1866,Lipika Natarajan,Salem,Tamil Nadu,Premium,Inactive
+CUST1867,Aarna Lanka,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1868,Ridhi Boase,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1869,Sai Ramaswamy,Mysuru,Karnataka,Premium,Active
+CUST1870,Vyanjana Chopra,Kochi,Kerala,Standard,Active
+CUST1871,Raagini Kamdar,Bengaluru,Karnataka,Premium,Active
+CUST1872,Riya Lad,Mysuru,Karnataka,Business,Active
+CUST1873,Bakhshi Bora,Tiruchirappalli,Tamil Nadu,Premium,Inactive
+CUST1874,Zashil Sehgal,Pune,Maharashtra,Business,Active
+CUST1875,Widisha Dixit,Salem,Tamil Nadu,Premium,Active
+CUST1876,Baljiwan Ramakrishnan,Madurai,Tamil Nadu,Standard,Inactive
+CUST1877,Max Narayan,Mysuru,Karnataka,Business,Active
+CUST1878,Aarush Varma,Bengaluru,Karnataka,Business,Active
+CUST1879,Vanya Sarin,Kochi,Kerala,Premium,Active
+CUST1880,Ekaraj Zachariah,Coimbatore,Tamil Nadu,Business,Active
+CUST1881,Aarush Rajagopalan,Hyderabad,Telangana,Business,Active
+CUST1882,Jairaj Wason,Kochi,Kerala,Business,Active
+CUST1883,Gauri Mitter,Coimbatore,Tamil Nadu,Business,Active
+CUST1884,Christopher Chana,Nashik,Maharashtra,Premium,Active
+CUST1885,Harini Buch,Coimbatore,Tamil Nadu,Standard,Active
+CUST1886,Bimala Jain,Nashik,Maharashtra,Business,Active
+CUST1887,Balveer Rajagopalan,Hyderabad,Telangana,Standard,Active
+CUST1888,Chandani Ramakrishnan,Kolkata,West Bengal,Standard,Inactive
+CUST1889,Jagrati Sur,Visakhapatnam,Andhra Pradesh,Standard,Active
+CUST1890,Raksha Gupta,Nashik,Maharashtra,Premium,Active
+CUST1891,Balendra Hans,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1892,William Suresh,Kolkata,West Bengal,Business,Active
+CUST1893,Dev Zachariah,Kochi,Kerala,Standard,Active
+CUST1894,Xalak Walla,Mumbai,Maharashtra,Standard,Active
+CUST1895,Amol Bansal,Chennai,Tamil Nadu,Business,Inactive
+CUST1896,Daksh Nazareth,Kochi,Kerala,Business,Active
+CUST1897,Nidra Dani,Vijayawada,Andhra Pradesh,Premium,Inactive
+CUST1898,Tara Yadav,Nashik,Maharashtra,Business,Active
+CUST1899,Viraj Bora,Kochi,Kerala,Standard,Inactive
+CUST1900,Lohit Suresh,Pune,Maharashtra,Business,Active
+CUST1901,Urishilla Bath,Chennai,Tamil Nadu,Business,Active
+CUST1902,Kalpit Atwal,Mumbai,Maharashtra,Business,Active
+CUST1903,Chandresh Mohanty,Pune,Maharashtra,Premium,Active
+CUST1904,Tanmayi Garde,Hyderabad,Telangana,Business,Active
+CUST1905,Hitesh Comar,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST1906,Thomas Bhatnagar,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1907,Pooja Nazareth,Hyderabad,Telangana,Premium,Inactive
+CUST1908,Ekta Dara,Coimbatore,Tamil Nadu,Premium,Active
+CUST1909,Ekanta Kala,Pune,Maharashtra,Premium,Active
+CUST1910,Oscar Nayak,Kochi,Kerala,Standard,Active
+CUST1911,Jai Mahal,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1912,Ojasvi Ganguly,Nashik,Maharashtra,Standard,Active
+CUST1913,Nitesh Sarna,Tiruchirappalli,Tamil Nadu,Standard,Inactive
+CUST1914,Banjeet Deol,Nashik,Maharashtra,Premium,Active
+CUST1915,Krisha Dugar,Hyderabad,Telangana,Business,Active
+CUST1916,Vidhi Buch,Kochi,Kerala,Standard,Active
+CUST1917,Abhimanyu Gola,Mumbai,Maharashtra,Premium,Active
+CUST1918,Bhanumati Saha,Kolkata,West Bengal,Business,Active
+CUST1919,Jonathan Jhaveri,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1920,Anika Virk,Madurai,Tamil Nadu,Business,Active
+CUST1921,Nisha Khare,Mumbai,Maharashtra,Standard,Active
+CUST1922,Baljiwan Gole,Chennai,Tamil Nadu,Standard,Active
+CUST1923,Gaurang Mitra,Kochi,Kerala,Business,Active
+CUST1924,Omya Agrawal,Kochi,Kerala,Business,Active
+CUST1925,Rehaan Dalal,Madurai,Tamil Nadu,Premium,Active
+CUST1926,Janaki Zacharia,Vijayawada,Andhra Pradesh,Business,Active
+CUST1927,Ucchal Joshi,Pune,Maharashtra,Standard,Inactive
+CUST1928,Chatresh Hari,Bengaluru,Karnataka,Premium,Active
+CUST1929,Manthan Som,Visakhapatnam,Andhra Pradesh,Business,Active
+CUST1930,Patrick Dutta,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1931,Chatura Patla,Pune,Maharashtra,Business,Inactive
+CUST1932,Shaurya Saran,Tiruchirappalli,Tamil Nadu,Business,Inactive
+CUST1933,Gaurika Setty,Kolkata,West Bengal,Standard,Inactive
+CUST1934,Hemang Ben,Visakhapatnam,Andhra Pradesh,Premium,Inactive
+CUST1935,Nakul Balakrishnan,Mysuru,Karnataka,Standard,Active
+CUST1936,Yutika D’Alia,Mysuru,Karnataka,Premium,Inactive
+CUST1937,Wahab Saxena,Mysuru,Karnataka,Business,Inactive
+CUST1938,Oni Issac,Nashik,Maharashtra,Standard,Active
+CUST1939,Victor Choudhary,Hyderabad,Telangana,Premium,Active
+CUST1940,Vedant Chaudhari,Pune,Maharashtra,Premium,Active
+CUST1941,Nitara Iyengar,Salem,Tamil Nadu,Premium,Inactive
+CUST1942,Thomas Borah,Madurai,Tamil Nadu,Premium,Active
+CUST1943,Vedhika Bhagat,Salem,Tamil Nadu,Business,Inactive
+CUST1944,Maanav Kalita,Mumbai,Maharashtra,Standard,Active
+CUST1945,Pranav Ram,Nashik,Maharashtra,Standard,Active
+CUST1946,Laban Shankar,Salem,Tamil Nadu,Standard,Active
+CUST1947,Jagrati Madan,Salem,Tamil Nadu,Business,Active
+CUST1948,Gautami Datta,Coimbatore,Tamil Nadu,Standard,Inactive
+CUST1949,Darpan Mand,Bengaluru,Karnataka,Standard,Active
+CUST1950,Indrajit Shroff,Kolkata,West Bengal,Premium,Active
+CUST1951,Omya Garg,Chennai,Tamil Nadu,Premium,Active
+CUST1952,Thomas Merchant,Bengaluru,Karnataka,Premium,Active
+CUST1953,Onkar Karpe,Bengaluru,Karnataka,Business,Inactive
+CUST1954,Nisha Vig,Madurai,Tamil Nadu,Standard,Active
+CUST1955,Tarak Solanki,Salem,Tamil Nadu,Premium,Inactive
+CUST1956,Arya Atwal,Mysuru,Karnataka,Standard,Active
+CUST1957,Yatin Kota,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1958,Radha Kapadia,Chennai,Tamil Nadu,Business,Active
+CUST1959,Abdul Sahni,Nashik,Maharashtra,Premium,Inactive
+CUST1960,Banjeet Singhal,Kochi,Kerala,Business,Active
+CUST1961,Pavani Wali,Vijayawada,Andhra Pradesh,Premium,Active
+CUST1962,Varenya Chaudhari,Salem,Tamil Nadu,Business,Active
+CUST1963,Warhi Khosla,Visakhapatnam,Andhra Pradesh,Business,Inactive
+CUST1964,Advik Ray,Mysuru,Karnataka,Business,Inactive
+CUST1965,Kevin Parmer,Vijayawada,Andhra Pradesh,Business,Active
+CUST1966,William Chana, Kolkata ,West Bengal,Premium,Inactive
+CUST1967,Varsha Mody,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1968,Tripti Bajwa,Kochi,Kerala,Premium,Active
+CUST1969,Ubika Devi,Mumbai,Maharashtra,Premium,Active
+CUST1970,Qasim Prabhakar,Madurai,Tamil Nadu,Standard,Active
+CUST1971,Aarav Bobal,Vijayawada,Andhra Pradesh,Standard,Active
+CUST1972,Gaurangi Wali,Madurai,Tamil Nadu,Premium,Active
+CUST1973,Chaman Sandhu,Salem,Tamil Nadu,Premium,Inactive
+CUST1974,Sarthak Buch,Madurai,Tamil Nadu,Standard,Inactive
+CUST1975,Christopher Varma,Tiruchirappalli,Tamil Nadu,Premium,Active
+CUST1976,Charan Choudhry,Tiruchirappalli,Tamil Nadu,Standard,Active
+CUST1977,Jasmit Shroff,Coimbatore,Tamil Nadu,Premium,Inactive
+CUST1978,Jasmit Peri,Mumbai,Maharashtra,Standard,Active
+CUST1979,Ekalinga Jayaraman,Salem,Tamil Nadu,Business,Inactive
+CUST1980,Gaurika Khare,Nashik,Maharashtra,Premium,Active
+CUST1981,Vanya Kadakia,Madurai,Tamil Nadu,Standard,Inactive
+CUST1982,Ekani Pandit,Mysuru,Karnataka,Standard,Active
+CUST1983,Yahvi Sampath,Madurai,Tamil Nadu,Business,Active
+CUST1984,Chatura Bhatnagar,Mumbai,Maharashtra,Standard,Active
+CUST1985,Hemani Sethi,Hyderabad,Telangana,Standard,Active
+CUST1986,Yachana Vyas,Bengaluru,Karnataka,Business,Inactive
+CUST1987,Upma Wali,Visakhapatnam,Andhra Pradesh,Premium,Active
+CUST1988,Siya Pillai,Salem,Tamil Nadu,Business,Inactive
+CUST1989,Raghav Shankar,Coimbatore,Tamil Nadu,Premium,Active
+CUST1990,Faris Raman,Hyderabad,Telangana,Standard,Active
+CUST1991,Bhavya Bose,Hyderabad,Telangana,Standard,Active
+CUST1992,Nitesh Majumdar,Madurai,Tamil Nadu,Standard,Inactive
+CUST1993,Manbir Taneja,Salem,Tamil Nadu,Standard,Active
+CUST1994,Samarth Verma,Bengaluru,Karnataka,Standard,Active
+CUST1995,Chaaya Saha,Kochi,Kerala,Standard,Active
+CUST1996,Urvi Palan,Mumbai,Maharashtra,Premium,Inactive
+CUST1997,Sachi Bail,Pune,Maharashtra,Premium,Active
+CUST1998,Ranbir Bhatnagar,Pune,Maharashtra,Standard,Active
+CUST1999,Vincent Venkatesh,Chennai,Tamil Nadu,Premium,Inactive
+CUST2000,Nisha Oza,Bengaluru,Karnataka,Business,Inactive
