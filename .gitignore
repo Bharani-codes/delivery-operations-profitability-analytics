@@ -1,0 +1,13 @@
+# Power BI local/cache files
+*.pbi-tools*
+*.tmp
+~$*
+
+# Python / OS
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
